@@ -1,0 +1,36 @@
+[{
+    "idFaro": 17,
+    "nombre": "Isla Pingüino",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.912947953169905, -65.71861693430775
+        ],
+        "type": "Point"
+    },
+   "accesible": false,
+   "accesoPago": false,
+   "descripcion": " Esta es la descripcion",
+   "caracteristicas": "Estas son las caracteristicas",
+   "historia": "Esta es la historia",
+   "ubicacion": "Esta es la ubicacion",
+   "urlImagen": "images/7"
+},
+{
+    "idFaro": 17,
+    "nombre": "Isla Pingüino",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.912947953169905, -65.71861693430775
+        ],
+        "type": "Point"
+    },
+   "accesible": false,
+   "accesoPago": false,
+   "descripcion": " Esta es la descripcion",
+   "caracteristicas": "Estas son las caracteristicas",
+   "historia": "Esta es la historia",
+   "ubicacion": "Esta es la ubicacion",
+   "urlImagen": "images/7"
+}]

@@ -1,0 +1,430 @@
+{
+	"info": {
+		"_postman_id": "0f9f037b-c996-4429-84b5-3fbf98a11e10",
+		"name": "Faros Argentinos API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "AUTH INIT",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "admins",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "admins",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/auth/init",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"auth",
+								"init"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AUTH RESET",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "admins",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "admins",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/auth/reset",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"auth",
+								"reset"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AUTH REFRESH",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "admins",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "admins",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/auth/refresh",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"auth",
+								"refresh"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Faros",
+			"item": [
+				{
+					"name": "GET FAROS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET FARO",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/faro/1",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"faro",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET TOP 5 FAROS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/top",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"top"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST FAROS",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"idFaro\": 1,\n    \"nombre\": \"Punta Mogotes\",\n    \"provincia\": \"Buenos Aires\",\n    \"coordenadas\": {\n        \"coordinates\": [\n            -38.06274290893398, -57.33143765372652\n        ],\n        \"type\": \"Point\"\n    },\n   \"accesible\": true,\n   \"accesoPago\": false,\n   \"descripcion\": \"Torre de 35.5 metros con franjas horizontales rojas y blancas, habitado \",\n   \"caracteristicas\": \"Luz blanca que produce un destello cada 19 segundos\",\n   \"historia\": \"Se termino de construir en el año 1891 sobre terrenos de Jacinto Peralta Ramos. En 1934 fue transformado en radiofaro. Su nombre proviene de la restinga de arena que se encuentra cerca y las rocas que la forman, llamadas mogotes que son parte del sistema Tandilia\",\n   \"ubicacion\": \"Se encuentra sobre una barranca a 8 km sentido sur del cabo Corrientes, en la ciudad de Mar Del Plata.\",\n   \"turismo\": \"Dentro de faro, se encuentra una Sala Histórica muy interesante. Fue designado de interés patrimonial en el año 1987. Se accede por medio de una escalera publica de 154 escalones\",\n   \"urlImagen\": \"http://www.hidro.gov.ar/Balizamiento/Faros/FOTOS/MOGOTES.jpg\",\n   \"urlVista\":\"https://www.google.com/maps/embed?pb=!4v1665392455411!6m8!1m7!1sCAoSLEFGMVFpcE5WMmMzOGgtbUJLZ0paeEJqTUNidkNVLXRDVm5NT0swdHlKZGFx!2m2!1d-38.0914701!2d-57.54558850000001!3f213.53500254671192!4f14.862797822316594!5f0.7820865974627469\"\n    \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST FAROS BATCH",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[{\n    \"idFaro\": 17,\n    \"nombre\": \"Isla Pingüino\",\n    \"provincia\": \"Santa Cruz\",\n    \"coordenadas\": {\n        \"coordinates\": [\n            -47.912947953169905, -65.71861693430775\n        ],\n        \"type\": \"Point\"\n    },\n   \"accesible\": false,\n   \"accesoPago\": false,\n   \"descripcion\": \" Esta es la descripcion\",\n   \"caracteristicas\": \"Estas son las caracteristicas\",\n   \"historia\": \"Esta es la historia\",\n   \"ubicacion\": \"Esta es la ubicacion\",\n   \"urlImagen\": \"images/7\"\n},\n{\n    \"idFaro\": 17,\n    \"nombre\": \"Isla Pingüino\",\n    \"provincia\": \"Santa Cruz\",\n    \"coordenadas\": {\n        \"coordinates\": [\n            -47.912947953169905, -65.71861693430775\n        ],\n        \"type\": \"Point\"\n    },\n   \"accesible\": false,\n   \"accesoPago\": false,\n   \"descripcion\": \" Esta es la descripcion\",\n   \"caracteristicas\": \"Estas son las caracteristicas\",\n   \"historia\": \"Esta es la historia\",\n   \"ubicacion\": \"Esta es la ubicacion\",\n   \"urlImagen\": \"images/7\"\n}]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/batch",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"batch"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE FARO",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/18",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"18"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "MODIFICAR FARO",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"idFaro\":1,\n    \"turismo\": \"Dentro del faro, se encuentra una Sala Histórica muy interesante. Fue designado de interés patrimonial en el año 1987. Se accede por medio de una escalera publica de 154 escalones.\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/modificar",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"modificar"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT IMPRESION A FARO",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/faros/17",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"faros",
+								"17"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Comentarios",
+			"item": [
+				{
+					"name": "GET COMENTARIOS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/comentarios/99",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"comentarios",
+								"99"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT COMENTARIOS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/comentarios/1",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"comentarios",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE COMENTARIOS",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/comentarios/?=1",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"comentarios",
+								""
+							],
+							"query": [
+								{
+									"key": null,
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Publicidades",
+			"item": [
+				{
+					"name": "GET PUBLICIDADES",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{_ENDPOINT}}/publicidades/99",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"publicidades",
+								"99"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST PUBLICIDADES",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"idFaro\":99,        \n    \"nombre\": \"YaInsumos\",\n    \"descripcion\": \"Servicios y productos informáticos\",\n    \"url\": \"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.936863538067!2d-57.57094852405874!3d-38.0252513461546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584de8e276cd16b%3A0x15baf9e20b3b274a!2sYaInsumos!5e0!3m2!1ses-419!2sar!4v1683743027922!5m2!1ses-419!2sar\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{_ENDPOINT}}/publicidades/",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"publicidades",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE PUBLICIDADES",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"idFaro\":1,        \n    \"nombre\": \"YaInsumos\",\n    \"descripcion\": \"Servicios y productos informáticos\",\n    \"url\": \"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.936863538067!2d-57.57094852405874!3d-38.0252513461546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584de8e276cd16b%3A0x15baf9e20b3b274a!2sYaInsumos!5e0!3m2!1ses-419!2sar!4v1683743027922!5m2!1ses-419!2sar\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{_ENDPOINT}}/publicidades/99",
+							"host": [
+								"{{_ENDPOINT}}"
+							],
+							"path": [
+								"publicidades",
+								"99"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

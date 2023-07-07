@@ -1,0 +1,1228 @@
+[
+{
+    "idFaro": 1,
+    "nombre": "1° de Mayo",
+    "provincia": "Antártida Argentina",
+    "coordenadas": {
+        "coordinates": [
+            -64.285833, -62.9675
+        ],
+        "type": "Point"
+    },
+   "accesible": false,
+   "accesoPago": false,
+   "descripcion": "Sucesivas campañas de verano permitieron realizar mantenimiento de su estructura y sistema luminoso. De esta manera, en el año 1956 debió cambiarse de ubicación la casilla de acumuladores de acetileno, ya que en la zona presentaba una elevada cantidad de hielo que dificultaba su funcionamiento.",
+   "caracteristicas": "El faro Primero De Mayo posee un alcance de 4,9 millas náuticas. En la Campaña Antártica de Verano 2000-2001 se instaló el equipo energético a base de pilas secas renovables cada dos años.",
+   "historia": "La señal fue construida durante la Campaña Antártica de Verano 1941/1942. Fue librada al servicio el 1 de marzo de 1942, con el fin de brindar un mejor avistaje a los buques que se aproximaban desde el norte, para realizar aprovisionamientos en el Destacamento Naval Melchior. Es el primer faro luminoso argentino instalado en el extremo E de la isla 1º de Mayo, en el año 1942. Fue Declarado Momumento Histórico Nro. 29 del Sistema del Tratado Antártico.",
+   "ubicacion": "Se encuentra en el archipiélago Melchior, entre las grandes islas Amberes y Brabante, pertenecientes ambas al archipiélago de Palmer, en el Sector Antártico Argentino.",
+   "turismo": "El turismo es muy limitado debido a su remota ubicacion en el Antártico Argentino",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PMAYO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ArchipelMelchior_03.jpg"
+},
+{
+    "idFaro": 2,
+    "nombre": "Almirante Brown",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -42.2175579, -64.2595748
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "El faro Almirante Brown, cuyo nombre nos recuerda al buque del mismo nombre, se encuentra en el golfo San Matias, provincia del Chubut. El faro no es habitado.",
+   "caracteristicas": "El faro originalmente, funcionó con un equipo luminoso alimentado por una fuente de acumuladores de gas acetileno, que le daba un alcance de 15,3 millas. Posteriormente, fue modernizado siguiendo las tendencias mundiales en materia de señalizaciones marítimas, por lo cual se procedió a cambiarlo por un equipo fotovoltaico de paneles solares y baterías, lográndose un alcance nominal de 10,2 millas náuticas. El faro consiste en una torre cuadrangular de hormigón armado que tiene una altura de 5 metros. La cara orientada hacia el mar está pintada a franjas horizontales rojas y blancas con un cuadrado rojo en el centro.",
+   "historia": "Antes de la construcción de este faro, existió una baliza de madera que instaló personal del cañonero ARA 'Independencia' como referencia para la práctica de tiro naval.",
+   "ubicacion": "No muy lejos de la Reserva Natural Turística Isla de los Pájaros, de gran valor biológico.",
+   "turismo": "Poca información, realiza tu aporte en los comentarios!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ABROWN.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 3,
+    "nombre": "Año Nuevo",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.6580696, -64.1345412
+        ],
+        "type": "Point"	
+    },
+   "accesible": false,
+   "accesoPago": false,
+   "descripcion": "Se trata de una de las señales de mayor inaccesibilidad, ya que se encuentra sobre una elevación de terreno de aproximadamente 24 metros y a unos 600 metros de la costa donde varaban las lanchas que transportaban los tubos de acetileno que proporcionaban la energía lumínica.",
+   "caracteristicas": "La torre del faro es una estructura troncocónica de franjas horizontales negras y blancas, con una casa habitación al pie, de 23,5 metros de altura.",
+   "historia": "El 25 de abril de 1985 fue electrificado por medio de paneles solares lo que dio como resultado un alcance luminoso de 12,8 millas náuticas.La construcción estuvo a cargo de la firma francesa: 'Barbier & Bernard'. Fue declarado 'Monumento Histórico Nacional', según el Decreto Nro. 64/99 del Poder Ejecutivo, en el año 1999 y a raíz de ahí se restauró integralmente.",
+   "ubicacion": "El archipiélago de Año Nuevo está ubicado al norte de la isla de los Estados. Integra parte del departamento de Ushuaia, en la provincia de Tierra del Fuego, Antártica e Islas del Atlántico Sur. Este archipiélago constituye una formación rocosa de islotes, formado por cinco islas, las cuales son: Observatorio, Elizalde, Zeballos, Goffré y el islote Gutiérrez. Todas estas islas son bajas, con costas rocosas y bordeadas de arrecifes.",
+   "turismo": "El faro está en la Isla Observatorio y no hay embarcación que llegue hasta allí.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ANUEVO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Faro_a%C3%B1o_nuevo.jpg/320px-Faro_a%C3%B1o_nuevo.jpg"
+},
+{
+    "idFaro": 4,
+    "nombre": "Beauvoir",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.7529005, -65.900083
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro Beauvoir se encuentra ubicado sobre la torre de la Iglesia Nuestra Señora de la Guardia, en la ciudad de Puerto Deseado, provincia de Santa Cruz. El faro no se encuentra habitado. ",
+   "caracteristicas": "Es un Faro giratorio conectado a la red de electricidad urbana de la iglesia y cuyo alcance es de 19 millas. La altura de la torre es de 27 metros.",
+   "historia": "Fue inaugurado el día 23 de octubre de 1980, debido a la necesidad de contar con una señal que ocasionalmente reemplazara al faro Pingüino, el cual, por encontrarse en una isla de difícil acceso, pudiera apagarse en alguna eventualidad. Por tal motivo, y a propuesta del entonces jefe del Distrito Balizamiento Puerto Deseado, Teniente de Fragata (R.S.) Ricardo Roberto Locarnini, el Padre Zucarello, de la congragación Salesiana, dio su consentimiento para erigir éste faro en la parte superior de la torre de la iglesia Nuestra Señora de la Guardia. Este faro lleva su nombre en recordación al sacerdote salesiano José María Beauvoir, de incesante actividad religiosa y un gran estudioso de las culturas patagónicas. En 1892, recorre a caballo la Isla Grande de Tierra del Fuego acompañando a Monseñor Fagnano para ubicar el lugar donde se construiría la Misión Salesiana La Candelaria, al norte del Río Grande. Publica en 1915 el Diccionario Shelknam (ona) y el Diccionario Tehuelche.",
+   "ubicacion": "El faro Beauvoir se encuentra ubicado sobre la torre de la Iglesia Nuestra Señora de la Guardia, en la ciudad de Puerto Deseado, provincia de Santa Cruz. El faro no se encuentra habitado.",
+   "turismo": "Puerto Deseado fue colonizado en 1884. Es conocida por la pesca deportiva y porque su puerto sirve de atraque para buques de gran calado. Hay interesantes eventos, excursiones y paseos atractivos para el turismo.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/BEAUVOIR.jpg",	
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604225229!6m8!1m7!1s-8kc-SOLNV_AvSb4NqqvNQ!2m2!1d-47.75290316701074!2d-65.89245242849198!3f256.22!4f20.879999999999995!5f0.7820865974627469"
+},
+{
+    "idFaro": 5,
+    "nombre": "Buen Suceso",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+             -54.49, -65.13
+
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Se encuentra en el extremo sur de la provincia Tierra del Fuego, Antártida e islas del Atlántico Sur en la costa sur de la bahía del mismo nombre, frente al estrecho de Le Maire. El faro se encuentra deshabitado",
+   "caracteristicas": "El 1° de febrero de 1985 se le reemplazó la fuente de alimentación por una base de paneles solares y baterías fotovoltaicas que le dan un alcance óptico de 8,9 millas. En 1918 debido a fallas estructurales, fue reemplazado por una torre nueva. El día 9 de diciembre de 1928 quedó librado al servicio público, alimentado por gas acetileno.",
+   "historia": "La construcción estuvo bajo la supervisión del comandante del Balizador A.R.A. 'ALFEREZ MACKINLAY', Teniente de Navío Ramón Poch. Los trabajos se iniciaron el 3 de noviembre de 1916, siendo librado al servicio el 8 de noviembre de 1916. Dos años más tarde, y debido a fallas estructurales, fue reemplazado por una torre nueva, tarea realizada por 12 hombres de la Sección Faros, a cargo del Teniente de Navío Carlos Sciurano. El día 9 de diciembre de 1928 quedó librado al servicio público.",
+   "ubicacion": "La bahía Buen Suceso es una profunda entrada de 2,15 millas de ancho que se abre hacia el W en forma de 'V' profunda, truncada al fondo por una amplia playa de arena, rodeada por montañas de regular altura, que brindan protección a los buques en el fondeadero. El cabo Buen Suceso es una excelente referencia para el navegante.",
+   "turismo": "Poca información, realiza tu aporte en los comentarios!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/BSUCESO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 6,
+    "nombre": "Buen Tiempo",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -51.33, -68.57
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro se encuentra emplazado sobre el cabo del mismo nombre, que tiene 105 metros de elevación, en la costa norte de Río Gallegos, provincia de Santa Cruz. El faro se encuentra deshabitado.",
+   "caracteristicas": "La construcción es una torre de hierro, con plataforma, barandilla y garita. Está pintada totalmente de negro y alimentada a gas acetileno y con un alcance óptico de 13,7 millas.",
+   "historia": "El encargado de dirigir las obras fue el comandante del buque Balizador A.R.A 'ALFEREZ MACKINLAY', Teniente de Navío Julián Fablet, conjuntamente con 15 personas de la dotación del buque y de la Sección Faros y Balizas. Los trabajos se iniciaron el 20 de febrero de 1917 y fue librado al servicio el 8 de abril de 1917. El faro debe su nombre al cabo donde se encuentra erigido. El nombre de este accidente geográfico proviene de navegantes ingleses quienes lo bautizaron con el nombre de 'Cape Fair Weather'.",
+   "ubicacion": "Se llega al faro desde la ruta Nacional 3, a la altura del puente sobre el río Gallegos, donde nace la ruta Provincial 55, por donde se recorren aproximadamente 45 km en dirección este, pasando por la Estancia Cabo Buen Tiempo, donde se debe solicitar la autorización correspondiente.",
+   "turismo": "El acceso depende de autorización. ¡Realiza tu aporte en los comentarios!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/BTIEMPO.jpg",
+   "urlVista": "/contribute"
+
+},
+{
+    "idFaro": 7,
+    "nombre": "Cabo Aristizabal",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -45.21605169540715, -66.5280288973963
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "El faro Cabo Aristizábal se encuentra en el extremo norte del golfo San Jorge, en la provincia del Chubut. El faro se encuentra deshabitado",
+   "caracteristicas": "Presenta un alcance óptico de 10,7 millas náuticas. Desde el 8 de diciembre de 1984 se encuentra alimentado por paneles solares y baterías fotovoltaicas.",
+   "historia": "Los trabajos de construcción se iniciaron el 11 de junio de 1917 y se libró al servicio el 17 de junio del mismo año. Durante 1977, y como consecuencia de la necesidad de aumentar su alcancee óptico, se decidió la construcción de una nueva torre. Se instaló entonces una nueva linterna de alcancee mayor a la inicial y que permitió incrementar la señal nocturna.",
+   "ubicacion": "El faro Cabo Aristizábal se encuentra en el extremo norte del golfo San Jorge, en la provincia del Chubut. El faro se encuentra deshabitado",
+   "turismo": "El faro está próximo a bahía Bustamante de donde provienen la mayoría de las algas marinas que se exportan o industrializan en el país. El campamento de recolectores de algas puede visitarse con permiso previo.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ARISTIZABAL.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 8,
+    "nombre": "Cabo Blanco",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.20223143180932, -65.73822889721934
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Es uno de los más pintorescos de nuestro litoral. Se encuentra en el extremo Sur del golfo San Jorge, en la Provincia de Santa Cruz y aproximadamente 60 Km de distancia al norte de Puerto Deseado. El faro es habitado.",
+   "caracteristicas": "Dada la posición geográfica del cabo, se proyecta una señal del tipo llamado 'relámpago' con un alcance nominal de 13,9 millas náuticas y una elevación sobre el nivel medio del mar de 67 metros, para asegurar las recaladas con todo tipo de tiempo meteorológico. Posee, además, un equipo de emergencia a gas. Altura de 27 metros",
+   "historia": "Los trabajos se iniciaron a mediados del mes de noviembre de 1915, bajo la dirección del Ingeniero Maquinista de 1ra. (RE) César Caccia. La linterna prevista se encargó en agosto de 1915. El nombre del faro proviene del cabo homónimo sobre el que está construido. Fue bautizado así por los navegantes españoles del siglo XVI, debido al color que le dan los depósitos de guano que depositan las aves.",
+   "ubicacion": "El faro se encuentra dentro de la Reserva Natural Cabo Blanco. Se accede a la señal por Ruta Nro. 281 y se dobla a la izquierda por la ruta Nro. 14.",
+   "turismo": "Se destaca por la biodiversidad. Allí habitan lobos marinos de dos pelos, leones marinos y cormoranes grises de cuello negro.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/BLANCO.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604266470!6m8!1m7!1sdS_GXNWurTn-3Tg8IOKjiw!2m2!1d-47.2033886619174!2d-65.73973067408886!3f45.33!4f0!5f0.7820865974627469"
+},
+{
+    "idFaro": 9,
+    "nombre": "Cabo Curioso",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -49.1838689058062, -67.6183214411125
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " La torre es una estructura de cuatro patas de hormigón armado, con una plataforma superior que soporta la garita de hierro. ",
+   "caracteristicas": "La señal luminosa la proveen tubos de acetileno, dando un alcance óptico de 13,7 millas náuticas.El faro no es habitado. Altura de 23 metros.",
+   "historia": "El 25 de marzo de 1922 el Balizador A.R.A. 'ALFÉREZ MACKINLAY' partió del Puerto Militar (actualmente Puerto Belgrano) con destino a San Julián. En el accidente llamado cabo Curioso, se iniciaron los trabajos en mayo de 1922 y se libró al servicio el 1 de agosto de 1922.",
+   "ubicacion": "El faro se encuentra a 18 km al norte de puerto San Julián, y por el camino se pasa por las antiguas instalaciones del frigorífico Swift, en funcionamiento entre los años 1912 y 1967. ",
+   "turismo": " La zona de cabo Curioso posee una playas muy amplias y pintorescas, de aguas límpidas, que son frecuentadas por el turismo de San Julián, quienes la denominan 'La Perla del Atlántico Santacruceño'.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CURIOSO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 10,
+    "nombre": "Cabo Dañoso",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -48.4900, -67.12000
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "El cabo Dañoso es un accidente bajo, de pedregullo, con forma redondeada, que despide hacia el SE y a 3 millas un arrecife que rompe en bajamar. Este topónimo descriptivo deriva de lo 'dañoso' o inconveniente de navegar por el lugar, lo que habla a las claras del peligro para la navegación y de la importancia de un faro para poder navegar la zona.",
+   "caracteristicas": "La torre del faro Cabo Dañoso es una estructura troncocónica de hierro con garita superior pintada a franjas horizontales rojas y blancas. Su altura es de 11 metros, con un alcance óptico de 10,3 millas náuticas (19,1 km) alimentado mediante energía solar fotovoltaica, con un equipo de paneles solares y baterías.",
+   "historia": "Fue puesto en servicio el día 23 de Diciembre de 1947.",
+   "ubicacion": "Se halla a 14 kilómetros al noreste de la ciudad de Puerto San Julián, en el Departamento Magallanes, en la Provincia de Santa Cruz, Patagonia Argentina.",
+   "turismo": "Poca información, realiza tu aporte en los comentarios!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/DANIOSO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 11,
+    "nombre": "Cabo Domingo",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -53.687419227955836, -67.847659656349
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se levanta a unos 10 Km al norte de la ciudad de Río Grande, en la provincia de Tierra del Fuego, sobre un cabo que le da el nombre, con una barranca muy notable de 80 metros de altura, de color ligeramente rojizo, que cae a pique hacia el mar. El faro no es habitado.",
+   "caracteristicas": "Originariamente estaba alimentada a gas acetileno, lo que le otorgaba un alcance luminoso de 11,6 millas náuticas. Actualmente, su energía es fotovoltaica con un alcance óptico de 7,3 millas náuticas.",
+   "historia": "Durante el mes de enero de 1933 comenzó su construcción en la parte más elevada del cabo Domingo para que la señal estuviera al resguardo de los continuos desmoronamientos del terreno. Once hombres trabajaron para levantar el faro en solo 3 días. Fue librado al servicio el 15 de enero de 1933.",
+   "ubicacion": "La ruta Nacional Nro. 3 llega a esta señal. Se encuentra dentro de las Reservas Naturales de Bahía Laura e Isla Pingüino. ",
+   "turismo": "Se destaca por el avistaje de aves.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/DOMINGO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Faro_Cabo_Domingo.jpg/320px-Faro_Cabo_Domingo.jpg"
+},
+{
+    "idFaro": 12,
+    "nombre": "Cabo Guardian",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -48.356664554374596, -66.35466044309592
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra ubicado en bahía Laura, a 166 Km al sur de Puerto Deseado en la Provincia de Santa Cruz, sobre el cabo Guardián, de unos 10 metros de altura, muy característico porque avanza en el mar y presenta una coloración rojiza de pedregullo. Está rodeado por una corona de restingas y bajos que se extienden hasta 5 millas. El faro se encuentra deshabitado.",
+   "caracteristicas": "La torre original era de hierro, en forma de pirámide cuadrangular y con una plataforma superior con garita y barandilla. El 27 de febrero de 1975, se armó dentro de la torre una estructura cuadrangular de hierro, quitándose las chapas y quedando el conjunto pintado íntegramente de negro. Altura de 36 metros",
+   "historia": "Este faro fue instalado para identificar la roca Bellaco, de gran peligrosidad para el navegante. Su construcción estuvo a cargo del Suboficial Torrero de Segunda Vicente de Zeta, quien transportó los materiales y gente en el Balizador A.R.A. Alférez Mackinlay. Los trabajos se iniciaron el 14 de marzo de 1928 y se libró al servicio el 30 de abril de 1928.",
+   "ubicacion": "Se encuentra dentro de la Reserva Natural Bahía Laura, que se destaca por la diversidad de aves como el cormorán de cuello negro, pato vapor y pingüinos magallánicos.",
+   "turismo": "Cabo Guardián tiene unos 10 metros de altura. Es muy característico porque avanza en el mar y presenta una coloración rojiza de pedregullo. Está rodeado por una corona de restingas y bajos que se extienden hasta 5 millas.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/GUARDIAN.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 13,
+    "nombre": "Cabo Peñas",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -53.84577072456321, -67.5590411319191
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "En el extremo sur de Río Grande, provincia de Tierra del Fuego, en la meseta oriental de cabo Peña, una saliente de 30 metros de altura. En sus proximidades, y hasta 2 millas de la costa, hay numerosas rocas semi sumergidas que hacen peligrosa la navegación. ",
+   "caracteristicas": "La señal es una estructura en forma de torre troncopiramidal de color negro, alimentado con energía fotovoltaica, con una altura de 13 metros. Originariamente, tenía un alcance luminoso de 18 millas; en la actualidad es de 10,3 millas náutica.",
+   "historia": "La construcción del faro estuvo a cargo del torrero de primera clase Augusto Baccarini, recibiendo ayuda de la Sociedad Anónima Menéndez Behety, con su aporte de materiales y personal. La construcción demandó en total 80 días,​ librándose al servicio el día 5 de diciembre de 1916. En el año 1962 se le realizaron importantes renovaciones.",
+   "ubicacion": "Se encuentra a 15 km al sur de la ciudad de Río Grande, el departamento Río Grande, en la provincia de Tierra del Fuego,",
+   "turismo": "El topónimo del cabo fue dado por los hermanos Bartolomé y Gonzalo Nodal, el 20 de enero de 1620, día de San Sebastián, quienes bautizaron al cabo en recuerdo del 'Cabo de Peñas de Asturias'.​ ",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PENIAS.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 14,
+    "nombre": "Cabo Raso",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -44.34494813118862, -65.23580121150891
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Está ubicado a 60 millas de la ciudad de Rawson, provincia del Chubut, este faro surge de un proyecto el 29 de abril de 1925, para dar seguridad a la navegación nocturna en el Salabarría, paraje entre el arrecife y la costa. El faro no es habitado.",
+   "caracteristicas": "El faro Cabo Raso tiene un aparato óptico que se encuentra sobre la torre inferior y la casilla de acumuladores está ubicada en la parte inferior de la construcción. Su alimentación actual es fotovoltaica. Altura de 23 metros.",
+   "historia": "Este faro fué construido con el objetivo de brindar seguridad a la navegación nocturna en el paraje entre arrecife Salaberría y la costa, permitiendo a los buques mercantes operar de día en el puerto Rawson y llegar a la mañana siguiente a Bahía Camarones. El faro fue montado por personal del buque balizador Alférez Mackinlay. Su nombre deriva del cabo homónimo, de suave pendiente, de arena y pedregullo. Es un topónimo netamente descriptivo.",
+   "ubicacion": "Se llega al faro por la runa nacional número tres, luego se empalma con la 68 y nuevamente se desvía hacia la número 1.",
+   "turismo": "Unos kms hacia el N se encuentra la Reserva Natutal Turística Punta Tombo, una gran pingüinera; y hacia el sur, la Reserva Natural Turística Cabo Dos Bahías, con pingüinos y lobos marinos.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/RASO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 15,
+    "nombre": "Cabo San Pablo",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.28537421895153, -66.69619796298987
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Instalado en costa sudeste de Tierra del Fuego, 30 millas al sur de Río Grande; sobre el cabo San Pablo, un monte aislado, muy característico por su forma redondeada que sobresale de la línea de la costa. El faro no es habitado.",
+   "caracteristicas": "Tiene una plataforma en la parte superior para alojar la linterna luminosa alimentada a energía fotovoltaica, que le da un alcance óptico de 12,5 millas náuticas. Altura de 6 metros.",
+   "historia": "Su construcción comenzó en el mes de enero de 1945, a cargo del Suboficial Torrero Mayor Nicolás Caraus. Durante el mes de diciembre de 1949 se produjo un movimiento sísmico que originó una peligrosa inclinación de la torre, situación que obligó a retirar el equipo luminoso y desactivar la señal; posteriormente, en 1966 se ordenó la reconstrucción del faro (faro Cabo San Pablo Nuevo) a pocos metros del anterior. ",
+   "ubicacion": "Se accede a este lugar por la ruta Nacional 3, entre Estancia Viamonte y Tolhuin, se encuentra la ruta Provincial 'A', la cual hay que seguir en dirección al este.",
+   "turismo": "En las cercanias se encuentra el anterior faro Cabo San Pablo, que debido a un sismo perdio su estabilidad y fue reemplazado por el actual.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SPABLO.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604312294!6m8!1m7!1sCAoSLEFGMVFpcFBfalQ2Vm81VlR5N0EtUS0wd2pYSmNpVkNYTEp1VlozN2lkZHdf!2m2!1d-54.2741895!2d-66.5623477!3f245.91!4f-2.9099999999999966!5f1.3696634660678475"
+},
+{
+    "idFaro": 16,
+    "nombre": "Cabo San Pio",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+           -55.05591945092596, -66.52372033205845
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro es una torre construida en mampostería. El alcance actual de su luz es de 9,2 millas, con paneles solares puestos en marzo de 1985.",
+   "caracteristicas": "Torre cónica, franjas naranjas y rojas. Altura de 8 metros.",
+   "historia": "Los trabajos de construcción comenzaron el 10 de Marzo de 1919, bajo la supervisión del teniente de Fragata Francisco Steward, de la embarcación 'Piedra Buena'.",
+   "ubicacion": "Este faro se encuentra frente a Isla Nueva, en el canal de acceso al canal Beagle.",
+   "turismo": "El cabo San Pío es el punto más austral del país (sin tomar en cuenta el sector antártico). Desde Cabo San Pío hasta el Cerro Branqui, al oeste de la confluencia de los ríos San Juan y Mojinete, en Jujuy, hay una distancia de 3799 km. El acceso a este faro es dificultoso ya que el camino para vehículos llega hasta Estancia Haberton, continuando una senda hasta Estancia Moat, a algunos kilómetros al W del faro. Su acceso es únicamente por vía marítima.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SPIO.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604348042!6m8!1m7!1sCAoSLEFGMVFpcFBfclg5bFVrNE0yLXhjWjhPU2lNczlwVVZqNEtmd1BJZHFhQzcw!2m2!1d-55.0558833!2d-66.5236044!3f59.39!4f19.58!5f0.8661789797781605"
+},
+{
+    "idFaro": 17,
+    "nombre": "Cabo Virgenes",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -52.333207145047126, -68.3557688271791
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Se encuentra en el extremo Sur del continente, más precisamente en Cabo Vírgenes, a la entrada del estrecho de Magallanes, en la provincia de Santa Cruz y a unos 150 km de la ciudad de Río Gallegos.",
+   "caracteristicas": "Es una torre con tubo central rodeada por seis postes metálicos con doble plataforma y garita. Alcance 23,9 millas náuticas.Torre troncopiramidal con doble plataforma, con franjas horizontales blancas y negras. Casa habitación al pie.Altura de 26 metros.",
+   "historia": "En el año 2004 cumplió cien años. En el 2003 se procedió a su reparación integral y pintado de la estructura exterior. Había sido librado al servicio el 15 de abril de 1904. El museo reafirma la vocación del SHN, en conjunto con la comunidad, de ecuperar para el patrimonio, cultura y tradiciones nacionales y la activa presencia de la Armada Argentina en el desarrollo patagónico.El faro toma el nombre del cabo homónimo, que fuera descubierto por Magallanes el 21 de Octubre de 1520, día de las Once Mil Vírgenes en el Santoral Católico.",
+   "ubicacion": "Se accede a él por medio de la ruta provincial 1, 130 km al sur de Río Gallegos. ",
+   "turismo": "En ese mismo sitio se erigió en el siglo XVI, la primera fundación de la Patagonia Argentina, la antigua ciudad de Nombre de Jesús. La misma tuvo un trágico final, el clima inhóspito y la dificultad en conseguir alimentos hicieron que la población perezca poco tiempo después. El 6 de diciembre de 2003 se inauguró el 'Museo del Cabo Vírgenes' con la presencia del Jefe del SHN y personal del mismo, dentro del marco del convenio con la Universidad Nacional de la Patagonia Austral y en coincidencia con el décimo tercer aniversario de esta casa de altos estudios. El museo está ubicado al pie del faro, en la antigua vivienda del torrero. El turista que lo visite observará una evocación de los cien años del faro y el reconocimiento a los hombres del SHN y a sus familiares que hicieron posible el funcionamiento secular de esta señal náutica. Próxima al faro se encuentra la Reserva Faunística Cabo Vírgenes, donde se encuentran miles de pingüinos magallánicos.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/VIRGENES.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604443156!6m8!1m7!1s-nCsxrKW7IeE4_6DhvJaqQ!2m2!1d-52.33302673093216!2d-68.35715999382387!3f100.93!4f0!5f0.7820865974627469"
+},
+{
+    "idFaro": 18,
+    "nombre": "Campana",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+           -48.399678400178715, -66.47084750113609
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro Campana se encuentra ubicado a unos 160 km al sur de Puerto Deseado, en la provincia de Santa Cruz. El faro no es habitado.",
+   "caracteristicas": "La torre presenta una estructura de hierro, con plataforma superior que soporta la linterna y una barandilla de protección. La alimentación original era una batería de 9 acumuladores de acetileno que brindaba una autonomía de uso de 6 meses hasta que se efectuara el próximo recambio. Actualmente fotovoltaico, con un alcance de 9,3 millas para el sector rojo y de 11,3 en el sector de luz blanca. Altura de 26 metros",
+   "historia": "Su construcción fue iniciada el 12 de febrero de 1928. Del balizador A.R.A. 'ALFÉREZ MACKINLAY' desembarcó personal y material y por medio de un camión, se arribó a bahía Laura, lugar previsto para la instalación del faro. Su nombre se debe al cerrito en donde se encuentra ubicado el faro, el que asemeja una campana.",
+   "ubicacion": "Se encuentra dentro de la Reserva Natural Bahía Laura. ",
+   "turismo": "Dentro de la Reserva Natural, los aficionados a las aves pueden realizar interesantes avistajez de cormoranes de cuello negro y patos vapor.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CAMPANA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 19,
+    "nombre": "Chubut",
+    "provincia": "",
+    "coordenadas": {
+        "coordinates": [
+            -43.22, -65.03
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro se encuentra en el extremo sur de la desembocadura del río Chubut. El faro no es habitado.",
+   "caracteristicas": "En el año 1985 fue reemplazada su fuente de energía original que funcionaba a gas acetileno, por otra basada en paneles solares y baterías fotovoltaicas lo que le brinda un alcance luminoso de 6,5 millas náuticas. Altura de 11,5 metros",
+   "historia": "La tarea de construcción del faro estuvo a cargo del Alférez de Fragata Alfredo Attewell, con personal de Balizamiento del Servicio de Hidrografía Naval y del Buque Balizador A.R.A. 'ALFÉREZ MACKINLAY'. El topónimo de la señal proviene del río Chubut. El nombre era desconocido en el siglo XVIII hasta que se rescata su nombre antiguo 'río del país de Chulilao', al que alude el padre Faulkner. Los alrededores del emplazamiento del faro, eran utilizados para el pastoreo durante el período colonial.. En un mapa de 1833 realizado por el Teniente Wickham de la expedición de Fitz Roy, lo llama 'Chupat', que es la alteración del vocablo indígena 'Chubut'. Aparentemente, proviene del araucano 'Chúvug' que significa corcovado, tortuoso o que da vueltas, aludiendo quizá al curso sinuoso inicial del río.",
+   "ubicacion": "Se accede tomando el camino que en dirección sur sale desde Rawson a Playa Santa Isabel. El faro se encuentra a 10 km de la ciudad de Rawson.",
+   "turismo": "Poca información turistica, ¡realizá tu aporte en los comentarios!.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CHUBUT.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 20,
+    "nombre": "Claromecó",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.858081247051324, -60.05164172971697
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Este faro se encuentra en el Partido de Tres Arroyos, próximo a la desembocadura del arroyo Claromecó, y está ubicado en el balneario homónimo. Este faro se encuentra habitado.",
+   "caracteristicas": "Su construcción obedeció a la necesidad de tratar de evitar que los buques se aproximen a los bancos arenosos típicos de la zona, y que dificultan la navegación costera. Por ello, el faro puede visualizarse a una distancia de 25,9 millas náuticas de la costa. Altura de 54 metros",
+   "historia": "Los trabajos se iniciaron en diciembre de 1921 y casi un año después, en setiembre de 1922, se terminó la construcción. Fue construido por la firma Dyckerhoff y Widmann. El nombre proviene del arroyo homónimo que se encuentra al sur de la provincia de Buenos Aires. Se trata del vocablo mapuche 'claromecó' que a su vez se origina en las voces: 'cla' (tres), 'rume' (juncos) y 'co' (arroyo, agua); cuya traducción sería: 'Tres arroyos con juncos'.",
+   "ubicacion": "La construcción se encuentra enclavada en un predio de 4 hectáreas, donado por la Sra. María Larramendi de Belloq.",
+   "turismo": "El faro podía ser visitado por el público en general Miercoles y Viernes de 9 a 12 y de 16 a 19 hora pero actualmente debido a desprendimientos en sus materiales, se encuentra clausurado al público. En su base se exhiben los restos óseos de una ballena hallada en las costas del balneario.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CLAROMECO.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604490973!6m8!1m7!1sCAoSLEFGMVFpcE85c0N4aUJMbHlFUUpoZ25SNlh4UDBZdERyVlBiVkRIQ25DYTNQ!2m2!1d-38.8583755!2d-60.05159759999999!3f0!4f0!5f0.7820865974627469"
+},
+{
+    "idFaro": 21,
+    "nombre": "Coig",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -50.54, -69.08
+                    ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Ubicado en las inmediaciones del antiguo puerto Coig (actual río Coig), 180 Km al norte de la ciudad de Río Gallegos, en la provincia de Santa Cruz.El río es fácil de reconocer por ser el único corte que presenta la costa entre puerto Santa Cruz y cabo Buen Tiempo. El faro no es habitado.",
+   "caracteristicas": "La torre es una estructura de hormigón armado, con garita en la parte superior que soporta el equipo luminoso. Originalmente funcionó a gas acetileno otorgándole un alcance óptico de 20 millas. En abril de 1992 el aparato luminoso pasa a ser alimentado con paneles solares y baterías fotovoltaicas, quedando con un alcance de 13,1 millas náuticas. Altura de 11 metros",
+   "historia": "Puerto Coig era el lugar de salida obligado de la producción ovina de las estancias de la zona. Por ello fue necesario instalar una señal luminosa que facilitara la recalada. Los trabajos se iniciaron en julio de 1947 y se libró al servicio el 12 de enero de 1948.",
+   "ubicacion": "Ubicado prácticamente sobre un acantilado, el acceso se torna dificil.",
+   "turismo": "Poca información turistica, ¡realizá tu aporte en los comentarios!.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/COIG.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 22,
+    "nombre": "El Rincon",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -39.384622580717654, -62.01478591475331
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro está situado en península Verde, provincia de Buenos Aires. Señala la entrada a Puerto Belgrano y a Bahía Blanca. En la actualidad, cuenta con un alcance nominal de 29,1 millas náuticas.",
+   "caracteristicas": "Se trata de una torre de mampostería y garita. Su elevación sobre el nivel medio del mar es de 64,5 metros. Altura de 62 metros",
+   "historia": "Construido de acuerdo a un proyecto presentado por el Servicio de Hidrografía Naval a la Dirección General del Material y que posteriormente fuera aprobado por la Armada. La empresa que se contrató para erigirlo fue Dyckerhoff y Widmann S.A., que costruyó en península Verde la original torre-faro y una casa-habitación. Fue nominado así por el Ministerio de Marina a través de varios expedientes, entre ellos el Oficio 99, NE 1400 del 23 de febrero de 1923 (expediente iniciador) y el del 16 de marzo del mismo año, donde se lee 'Vuelva a la Dirección General de Navegación y Comunicaciones, para que al cabo y faro se los denomine EL RINCON'. ",
+   "ubicacion": "Ubicado en península Verde, a unos 50 km al noreste de la localidad de Pedro Luro, partido de Villarino. Se encuentra emplazado en un predio de 4 hectáreas, cedidas por el Sr. Adolfo Luro al Ministerio de Marina.",
+   "turismo": "Poca información turistica, ¡realizá tu aporte en los comentarios!.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/RINCON.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 23,
+    "nombre": "Esperanza",
+    "provincia": "Antártida Argentina",
+    "coordenadas": {
+        "coordinates": [
+            -63.24, -56.59
+        ],
+        "type": "Point"
+    },
+   "accesible": false,
+   "accesoPago": false,
+   "descripcion": "Se encuentra ubicado en caleta Choza, más específicamente en la mayor de las rocas Grunden, al Sudeste de bahía Esperanza, en el Sector Antártico Argentino, lugar donde se asienta la Base de Ejército del mismo nombre.",
+   "caracteristicas": "Inicialmente era una torre de hierro de 8 metros de altura con plataforma para la linterna que funcionaba a gas acetileno, lo que le proporcionaba un alcance de 7,6 millas. Posteriormente, en mayo de 1960, se procedió al recambio de la estructura por otra de tamaño similar. En diciembre de 1993 se inició su construcción para reemplazarla por una estructura de plástico reforzado con fibra de vidrio. Actualmente está alimentado por pilas secas que le brindan un alcance de 6,2 millas. Quedó librado al servicio en su nueva estructura el día 2 de enero de 1994. Altura de 6 metros",
+   "historia": "Fué construido en enero de 1952 por la comisión a cargo del Comandante del remolcador A.R.A. 'CHIRIGUANO', Teniente de Navío Fulgencio Ruiz.",
+   "ubicacion": "Hasta la roca donde se erige, se accede con bote, pero llegar a la señal se torna dificultoso debido a una pendiente de 20 metros, escarpada y con material rocoso disuelto.",
+   "turismo": "Poca información turistica, ¡realizá tu aporte en los comentarios!.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ESPERANZA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 24,
+    "nombre": "Guzmán",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.34801393492189, -65.72083026123312
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Fue construido en el mismo lugar donde se encontraba erigida una antigua baliza a principios de siglo. El faro no es habitado.",
+   "caracteristicas": "La señal luminosa del Faro Guzmán es provista por un equipo fotovoltaico con el cual se logra un alcance de 10 millas. Altura de 12 metros",
+   "historia": "El personal que intervino en su construcción fue transportado por el buque A.R.A. '1º DE MAYO' hasta el faro Cabo Blanco y desde allí se trasladaron en un camión hasta el lugar definitivo de emplazamiento donde llegaron el 25 de enero de 1928. Fue librado al servicio el 10 de febrero de 1928. El nombre de este faro surge como un homenaje al alférez de fragata Tulio Guzmán, oficial de derrota del buque Azopardo.",
+   "ubicacion": "Se encuentra a 17 Km al sur del faro Cabo Blanco y aproximadamente 100 Km al norte de Puerto Deseado, en la provincia de Santa Cruz. ",
+   "turismo": "Es una meseta agreste donde se pueden observar algunas pingüineras y aves diversas.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/GUZMAN.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 25,
+    "nombre": "Isla Pingüino",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -47.91381805121252, -65.71893337124087
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El Faro Isla Pingüino es un faro no habitado de la Armada Argentina que se encuentra en el extremo sur de la isla Pingüino.",
+   "caracteristicas": "La altura total del faro es de 22 metros, y consta de una torre mixta, que consta de una parte de mampostería de 11,50 metros de altura y una torre de hierro de 10,35 metros. En la base se encuentra una casa habitación para el personal que antiguamente formaba parte de la dotación estable del faro.",
+   "historia": "El nombre proviene de la isla homónima. El Capitán Villegas del bergantín 'Belén', de la expedición del Capitán de Fragata Ramón Clayrac, encargado de desalojar los establecimientos ingleses de la Patagonia, fue el primero en levantar el plano de la isla que los ingleses llamaban Penguin, por lo característico de la fauna y que hoy se conoce como isla Pingüino.",
+   "ubicacion": "El faro fue librado al servicio el día 1° de mayo de 1903. Primitivamente estaba alimentado a kerosene, combustible que le daba un alcance óptico de 22 millas náuticas. En junio de 1924 se cambió por gas acetileno, manteniendo la potencia lumínica. Por último, 15 de julio de 1983 se procedió a su electrificación con energía solar fotovoltaica mediante paneles solares, con lo que el alcance quedó reducido a 12 millas náuticas.",
+   "turismo": "Poca información turistica, ¡realizá tu aporte en los comentarios!.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/pinguino.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Faro_-_Isla_Ping%C3%BCino_-_Puerto_Deseado.jpg/320px-Faro_-_Isla_Ping%C3%BCino_-_Puerto_Deseado.jpg"
+},
+{
+    "idFaro": 26,
+    "nombre": "Isla Rasa",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -45.06, -65.2400
+         ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra en el extremo norte del golfo San Jorge, en la provincia del Chubut. Su construcción fue aprobada el 28 de julio de 1915 para señalizalizara el peligro que representaba isla Rasa. El faro no es habitado.",
+   "caracteristicas": "La torre inicial fue una estructura cilíndrica de hierro de 7,50 metros de alto, totalmente pintada de negro, con un alcance lumínico de 10 millas. En el año 1930, a raíz del avanzado estado de deterioro de la estructura, se cambió por un tubo cilíndrico de 6 metros de altura, también pintado de negro. En el año 1982 se procedió a cambiar el sistema de alimentación de gas acetileno por paneles solares y baterías fotovoltaicas, quedando con un alcance luminoso de 9,3 millas náuticas. Altura de 6 metros",
+   "historia": "Su construcción fue aprobada el 28 de julio de 1915 para que señalizara el peligro que representaba isla Rasa. Para levantar la señal fue destacado el transporte ARA 'Azopardo'. Los trabajos se iniciaron el 2 de septiembre de 1915 y recién se libró al servicio el 6 de junio de 1917, debido a repetidos problemas con la linterna del faro. Se trata de un topónimo netamente descriptivo, dado que la isla donde se encuentra construido el faro, es plana y de constitución rocosa.",
+   "ubicacion": "La isla Rasa con su faro del mismo nombre se sitúa al SE del cabo Dos Bahías.  ",
+   "turismo": "Se encuentra dentro de una Reserva Natural Turística con pintoresca lobería y variedad de aves. Bahía Camarones es otro lugar de interés turístico, sobre todo para la pesca deportiva.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/RASA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 27,
+    "nombre": "Le Maire",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.79726364367885, -64.70895710536433
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Construido en la costa oriental de isla de los Estados, más precisamente en bahía Crossley. El estrecho Le Maire separa a la isla del extremo sudoriental de isla Grande de Tierra del Fuego. Este faro no se encuentra habitado.",
+   "caracteristicas": "En 1983, se reemplazó el sistema de gas acetileno por paneles solares. Debido al avanzado estado de deterioro de la estructura, el 22 de abril de 1993 se procedió a intalar una torre construida en plástico reforzado con fibra de vidrio, consistente en dos módulos cilíndricos de forma troncocónica invertida de 4,2 metros de altura. El alcance resultante de su luz es actualmente de 8,9 millas náuticas. Altura de 4,2 metros",
+   "historia": "Teniendo en cuenta los graves inconvenientes que representaba navegar por el estrecho de Le Maire, especialmente durante la noche debido a las fuertes corrientes e inhóspita meteorología, se solicitó a la Armada Argentina la aprobación de un proyecto para construir un faro en cabo del Medio, bahía Crossley (isla de los Estados). En 1925 se aprobó la construcción, que estuvo a cargo de personal del Departamento Balizamiento del Servicio de Hidrografía Naval. Se libró al servicio el 18 de febrero de 1926. Lleva el nombre del estrecho homónimo. El 26 de enero de 1616 los navegantes holandeses Jacobo Le Maire y Guillermo Cornelio Schouten descubrieron el estrecho al que llamaron Le Maire.",
+   "ubicacion": "Construido en la costa oriental de isla de los Estados, más precisamente en bahía Crossley.",
+   "turismo": "Imposible llegar a él sin asistencia náutica.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/LEMAIRE.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 28,
+    "nombre": "Les Eclaireurs",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.521519146863406, -68.0532681487004
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Torre troncocónica con garita y tres franjas rojas y blancas.",
+   "caracteristicas": "El faro se encuentra a 22,5 metros de elevación sobre el nivel medio del mar. El alcance óptico actual es de 7,2 millas náuticas y está provisto de un equipo luminoso a base de paneles solares.Altura de 11 metros.",
+   "historia": "En el mes de abril de 1918, se ordenó al comandante del transporte 'VICENTE FIDEL LOPEZ', realizar estudios en el canal Beagle con el objeto de determinar la posibilidad de instalar una señal luminosa en la zona próxima a los islotes Les Eclaireurs. Fue así como se decidió instalarlo en uno de ellos, el más destacado y de 7 m de elevación, que tenía una base plana en su centro como para construirlo.",
+   "ubicacion": "Se encuentra emplazado en uno de los islotes Les Eclaireurs, el que se ubica más hacia el NE, dentro del canal Beagle. Estos islotes son pequeños, de constitución rocosa, con piedras entre ellos, rodeadas de cachiyuyos. El Faro no es habitado.",
+   "turismo": "Pueden realizarse excursiones marítimas al faro , en cuyas proximidades se hundiera el buque turístico 'Monte Cervantes', que naufragara en 1930.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ECLAIREURS.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Faro_Les_%C3%89claireurs_%285524759191%29.jpg/220px-Faro_Les_%C3%89claireurs_%285524759191%29.jpg"
+},
+{
+    "idFaro": 29,
+    "nombre": "Magallanes",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -52.66421351102041, -68.60225538933005
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Está construido en una zona desértica, a unos 200 km al norte de la ciudad de Río Grande y a unos 800 m del Hito 1 que marca la frontera con la República de Chile.Se encuentra sobre el cabo Espíritu Santo, extremo norte de la isla Grande de Tierra del Fuego, marcando la boca oriental del estrecho de Magallanes.",
+   "caracteristicas": "La torre está colocada sobre una barranca de 40 metros de elevación sobre el nivel del mar. Al pie tenía una casilla para los acumuladores de gas acetileno que le otorgaban un alcance de 12,5 millas. El día 19 de agosto de 1993, la empresa 'Total' instaló una tubería de gas (que alimentaba la Estación de Control de Tráfico Hito I), para llevar el fluido hasta un compresor, que cargando una batería, permitía alimentar la linterna del faro. Todo el material de la instalación y equipo compresor, motor y generador, fueron donados por la empresa mencionada. Desde el año 2001 funciona a energía fotovoltaica. Altura de 13,5 metros",
+   "historia": "Su construcción fue dirigida por el Suboficial Primero Torrero Santamaría, junto a 8 hombres del Departamento de Balizamiento del Servicio de Hidrografía Naval, asistido por personal y vehículos del Batallón de Infantería de Marina Nº 5, de la ciudad de Río Grande.Fue librado al servicio el 21 de diciembre de 1976.",
+   "ubicacion": "Se encuentra sobre el cabo Espíritu Santo, extremo norte de la isla de Tierra del Fuego, marcando la boca oriental del estrecho de Magallanes.",
+   "turismo": "Se encuentra en una zona de dificil acceso.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/MAGALLANES.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604615442!6m8!1m7!1sLqQy1yXTCzaMP2zZkiOQkg!2m2!1d-52.66219450621986!2d-68.60648899143463!3f113.52186318825949!4f-5.012713853920005!5f0.7820865974627469"
+},
+{
+    "idFaro": 30,
+    "nombre": "Mar Chiquita",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -37.77241836908288, -57.44680688271633
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Situado sobre la costa atlántica, unas tres millas al SW de la desembocadura de la laguna de Mar Chiquita, y 30 Km al norte de la ciudad de Mar del Plata.",
+   "caracteristicas": "La construcción del faro se remonta al año 1915, cuando sólo se trataba de una baliza sin luz sostenida por una torre de hierro cilíndrica. La torre está constituida en cemento, con una plataforma superior que soporta la linterna luminosa. Este faro está alimentado a energía eléctrica. En 1969 la torre fue reemplazada por otra que se erigió a 20 metros de la anterior. En septiembre de 1931, debido al mal estado de conservación en que se encontraba, se reemplazó por un faro luminoso, pero a una distancia de 2,5 millas al sur del original emplazamiento. Altura de 18 metros",
+   "historia": "En 1915 se erigió, a 2500 m al norte de la actual ubicación una baliza sin luz sostenida por una torre de hierro. En 1931 se decide reemplazar a esta baliza por un faro luminoso. Toma el nombre de la extensa laguna situada 50 millas al SSW de punta Médanos, con campos bajos e inundables.",
+   "ubicacion": "El faro Mar Chiquita se encuentra ubicado en la localidad de Mar de Cobo, partido de Mar Chiquita. Se accede a él, por medio de la ruta Provincial 11, km. 485,5 a cuatro kilómetros al sur de la Laguna de Mar Chiquita.",
+   "turismo": "El faro se localiza sobre una costa dominada por arena y bajos médanos forestados en su gran parte. Muy frecuentado por turistas, se practica náutica y especialmente, pesca deportiva. Hay buen pique de lenguado, pejerrey y lisa. A pocos metros existe un muelle y refugio con alojamiento y alquiler de lanchas.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CHIQUITA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 31,
+    "nombre": "Miramar",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.27623529716198, -57.83465772025177
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Entre el arroyo El Durazno y punta Hermengo, se extiende la ciudad de Miramar, que constituye uno de los balnearios más importantes de la costa atlántica. La ciudad cuenta con este faro desde el año 1929, cuando disponía de luz automática alimentado con gas acetileno.",
+   "caracteristicas": "Fue construido sobre armazón de hierro de cuatro tramos troncopiramidales, pintada a franjas alternadas color rojo y blanco. Su alcance óptico en aquel entonces, y en la actualidad, era de 12 millas. Con el fin de brindar mayor seguridad a los navegantes, el 1° de junio de 1962 se procedió a un cambio de linterna. El 7 de agosto de 1985 fue reemplazado el equipo de gas, conectando la linterna a la red urbana de la ciudad, permitiendo de esta manera que la visibilidad nocturna aumentara significativamente. En 1988 se instaló un faro giratorio, por tal motivo se procedió al traslado de la torre a la azotea del Edificio 'Playa Club', donde brindaba una mayor visibilidad y no se confundía con las luces de la zona. Actualmente tiene una torre de mampostería de 1,40 metros y un alcance nominal de 12 millas. Altura de 73.5 metros",
+   "historia": "La cuidad cuenta con este faro desde el año 1929, cuando disponía de luz automática alimentado con gas acetileno. La señal toma el nombre de la localidad balnearia, de la cual se desconocen los antecedentes del topónimo.",
+   "ubicacion": "El faro Miramar se encuentra emplazado en la azotea del edificio 'Playa Club', ubicado en la Avenida Costanera y calle 25, de la ciudad de Miramar.",
+   "turismo": "La ciudad fue fundada en 1888 por Fortunato de la Plaza. Actualmente es un balneario importante, de gran crecimiento edilicio. Recibe el nombre de 'La ciudad de los niños'. Dotada de una excelente hotelería, sus playas son famosas por su amplitud y suave declive.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/MIRAMAR.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baliza_Miramar.jpg/320px-Baliza_Miramar.jpg"
+},
+{
+    "idFaro": 32,
+    "nombre": "Morro Nuevo",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -42.86662220648034, -64.14992692573905
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Se encuentra en el extremo sur de la península Valdés, en la provincia del Chubut. Su construcción se llevó a cabo con el fin de brindar una mejor señalización para el ingreso a golfo Nuevo, especialmente en horas nocturnas.",
+   "caracteristicas": "Se trata de una torre de hierro. En un principio estaba alimentado con gas acetileno, con un alcance óptico de 11 millas. El 18 de octubre de 1982 se le instaló una fuente de energía con aerocargador incrementándose el alcance luminoso hasta 18,8 millas. Por fallas en el funcionamiento del equipo y carencias de repuestos, el 28 de febrero de 1984 se instalaron paneles solares y baterías fotovoltaicas que originan su alcance actual, de 12,7 millas náuticas. Altura de 12 metros.",
+   "historia": "Los trabajos comenzaron el 19 de mayo de 1918 con el balizador ARA ALFEREZ MACKINLAY y fue liberado al servicio el 8 de junio de 1918.",
+   "ubicacion": "Para acceder al faro se toma al norte la ruta provincial 1 hasta empalmar, a la derecha, la ruta provincial 2, que lleva a la península Valdés.",
+   "turismo": "La peninusula de Valdés fue declarada Patrimonio Mundial Natural de la Humanidad por la UNESCO por su gran valor biológico donde pueden observarse aves marinas y costeras.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/MORRONUEVO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 33,
+    "nombre": "Páramo",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+           -53.1502388305072, -68.20971845593658
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra sobre la península del mismo nombre, que forma el extremo norte de bahía San Sebastián. El faro se encuentra a unos 120 km de la ciudad de Río Grande, en la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. El faro se encuentra deshabitado",
+   "caracteristicas": "Estructura de hierro, 17,5 metros de altura",
+   "historia": "En 1923 se decidió la conveniencia de instalar un faro en península El Páramo debido al incremento de los buques que operaban en la zona, transportando cargas de los frigoríficos de Río Grande. Los trabajos de construcción comenzaron en 1 de febrero de 1924 y fue librado al servicio el 31 de marzo de 1924. El topónimo de la señal proviene de la península homónima. El nombre fue impuesto por el ingeniero rumano, aventurero y explorador Julio Popper, que recorriera Tierra del Fuego entre los años 1886 y 1892. Con anterioridad, los aborígenes choncoiucas la llamaban 'Kolmen', algo así como 'abrazo', tal vez teniendo en cuenta la forma en que cierra por el E la península a la bahía San Sebastián.",
+   "ubicacion": "El faro se encuentra a unos 120 km de la ciudad de Río Grande.",
+   "turismo": "Se encuentra en una zona de dificil acceso turistico",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PARAMO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 34,
+    "nombre": "Punta Bajos",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+           -42.23, -63.37
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " La torre está construida sobre la punta Bajos, en península Valdés, provincia del Chubut.",
+   "caracteristicas": "Originariamente consistió en una torre de hierro negra, de forma troncopiramidal de 28 metros de altura, con plataforma superior, garita con equipo luminoso y barandilla. El 23 de enero de 1985 se reemplazó su antiguo equipo luminoso a gas acetileno por energía fotovoltaica compuesta por paneles solares y baterías, logrando un alcance de 21 millas. Desde principios del año 2001, su estructura fue transformada en una típica torre de radiofaro con un alcance luminoso de 13,7 millas náuticas. Altura de 20,5 metros",
+   "historia": "Este faro fue levantado en el año 1927, por el personal del buque balizador A.R.A. 'Alferez Mackinlay'.",
+   "ubicacion": "El faro Punta Bajos se encuentra ubicado en el extremo oriental de la Península Valdés, en las cercanías de la desembocadura de la caleta del mismo nombre.",
+   "turismo": " La península fue declarada por la UNESCO como Patrimonio Mundial Natural de la Humanidad por su riqueza biológica y paisajística.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PBAJOS.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 35,
+    "nombre": "Punta Colorada",
+    "provincia": "Río Negro",
+    "coordenadas": {
+        "coordinates": [
+           -41.69736371870718, -65.0265547510339
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Linterna ubicada en el techo de una empresa peletera. Provincia de Río Negro, Punta Colorada (Golfo de San Matías).",
+   "caracteristicas": "Alcance nominal 12 millas náuticas. Elevación sobre el nivel medio del mar: 53,7 metros.",
+   "historia": "En un principio este faro era una baliza que se encontraba ubicada en el techo de la empresa HIERROS PATAGONICO DE SIERRA GARNDE S.A.M ( HIPASAM), al cerrar esa empresa, el edificio fue ocupado por una empresa peletera y consiguientemente se cambió el nombre al faro, dándole el nombre del accidente geografico donde se encuentra ubicado. Puesto en servicio el 31 de marzo de 1924.",
+   "ubicacion": "Linterna ubicada en el techo de una empresa peletera.",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "https://httpcats.com/204.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 36,
+    "nombre": "Punta Conscriptos",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -42.88826247531037, -64.701001571886
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Este faro comenzó a construirse el 30 de diciembre de 1929, en el extremo sur del golfo Nuevo en la provincia del Chubut.",
+   "caracteristicas": "En sus orígenes era alimentado por gas acetileno, lo que le daba un alcance luminoso de 15,3 millas. El 27 de marzo de 1986 se reemplazó la fuente de energía y se instalaron paneles solares y baterías fotovoltaicas, elementos que le otorgan un alcance luminoso de 10,5 millas náuticas. Altura de 10 metros",
+   "historia": "Comenzó a construirse en diciembre de 1929 y su tarea estuvo a cargo del Torrero de Segunda Alfredo Vineis, el Operario de Primera Nicolás Di Vicenzo, el Guardián de Segunda Antonio Pietraccone y 10 conscriptos de la dotación del Balizador A.R.A. 'ALFEREZ MACKINLAY'. Se desconocen los antecedentes toponímicos de este faro. Suponemos que fue en recuerdo de los conscriptos navales que ayudaron en la tarea de construcción del faro.",
+   "ubicacion": "El faro Punta Conscriptos se encuentra ubicado sobre la costa sur del Golfo Nuevo, entre la localidad de Puerto Madryn y Punta Ninfas, próximo a la Reserva Natural Turística Punta Loma.",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/CONSCRIPTOS.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 37,
+    "nombre": "Punta Delgada",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -42.76634852115906, -63.637165819491486
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Una vez más, la Armada Argentina intervino en pos de la seguridad a la navegación y decidió la construcción de este faro en la hermosa pero solitaria geografía de península Valdés, en la provincia del Chubut. Originariamente, se pensó levantarlo en punta Ninfas, pero posteriores estudios de prefactibilidad, determinaron que el lugar ideal fuera su emplazamiento actual. El faro es habitado.",
+   "caracteristicas": "Los trabajos se iniciaron en setiembre de 1904 bajo la supervisión de la Sección Hidrográfica, Faros y Balizas (actual Servicio de Hidrografía Naval) con la dirección del Inspector de Faros, Teniente de Fragata Pablo Texera García y del Mecánico de Faros Guillermo Cray. Los trabajos culminaron en abril de 1905 y el 1° de mayo de este mismo año fue librado al servicio. Originariamente tenía luz blanca, batería de 2 tanques de bronce para aire comprimido y petróleo, con un aparato óptico Barbier de tercer orden. Altura de 14 metros.",
+   "historia": "Originariamente, se pensó levantarlo en punta Ninfas, pero posteriores estudios de prefactibilidad, determinaron que el lugar actual fuera su emplazamiento definitivo. En sus comienzos funcionaba en estas dependencias la Escuela de Guardafaros.",
+   "ubicacion": "Se llega al faro recorriendo una distancia de 70 km al este de Puerto Pirámides, por la ruta Provincial 2.",
+   "turismo": "Al pie del faro se encuentra una de las colonias de elefantes marinos más importantes de la Patagonia. Asimismo, en el terreno en donde se encuentra el faro funciona un hotel y restaurante de nivel internacional.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/DELGADA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 38,
+    "nombre": "Punta Lobos",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -43.79215494350842, -65.33254663355257
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Enmarcado por la belleza hostil de las mesetas patagónicas, su luz se extiende sobre una porción del mar Argentino situada a una distancia de 140 Km al sur de la ciudad de Puerto Madryn, en la Provincia del Chubut.",
+   "caracteristicas": "El faro Punta Lobos es una torre de hormigón armado, alimentada a gas acetileno a través de una lente de 1000 milímetros de diámetro que le permitió un un alcance nominal de 13,7 millas náuticas. Actualmente su alimentación es fotovoltaica. Altura de 11 metros",
+   "historia": "Fue construido en virtud del Plan General de Balizamiento desarrollo por la Dirección General de Navegación e Hidrografía (actual Servicio de Hidrografía Naval), y con el fin de señalizar el amplio litoral marítimo de nuestro país. Su nombre obedece a la existencia de una colonia de lobos marinos que viven en los alrededores del faro.",
+   "ubicacion": "El faro Punta Lobos se encuentra ubicado en el accidente geográfico homónimo, a aproximadamente 60 km al sur de Rawson, la capital de la provincia de Chubut. Se accede al faro por la ruta Nacional 3 o por la ruta Provincial 1, en ambos casos tomando el desvío hacia Punta Lobos. ",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PLOBOS.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 39,
+    "nombre": "Punta Médanos",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -36.8829785, -56.6771297
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": true,
+   "descripcion": "Se encuentra en la provincia de Buenos Aires, partido de la Costa, a 0,6 millas al SW de Punta Médanos. Su localización marca la culminación sur del cabo de San Antonio, lugar en el que muchos naufragios habían tenido lugar hasta el momento de su señalización. Se trata de un tubo central rodeado de un trípode de patas cilíndricas , con garita superior y casa. Es eléctrico y con equipo de emergencia a gas con alcance reducido. Este faro se encuentra habitado.",
+   "caracteristicas": "Torre metálica troncopiramidal y garita con franjas horizontales rojas y blancas. Casa al pie. Altura 59 metros.",
+   "historia": "El nombre propuesto para el faro se debe a la punta homónima, donde fue erigido, accidente geográfico descubierto por la expedición de Magallanes el 7 de febrero de 1520 y bautizado como cabo Santa Polonia. El actual Médanos se detectó por primera vez en la carta de Lángara de 1798, pero con la actual posición de punta Querandí. Posteriormente, en 1820 se transfirió ese nombre al extremo sur del cabo San Antonio.Su construcción fue encargada a la empresa Barbier, Bernard & Turenne, en París, Francia, en 1890, donde fue ensamblado en fábrica y posteriormente enviado desarmado a Buenos Aires. Su armado e instalación final fue responsabilidad de los empresarios Torres y Sturiza.",
+   "ubicacion": "Se encuentra en el extremo meridional del cabo San Antonio y el lugar que se encuentra en el punto más oriental de la Costa Argentina continental. Se halla ubicada a orillas del mar Argentino del océano Atlántico. ",
+   "turismo": "El faro se encuentra ubicado sobre la ruta 11, entre las localidades de Mar de Ajó y Pinamar. El acceso al faro es abierto al público. En sus instalaciones existe un museo que cuenta con interesantes objetos y fotos de este centenario faro. Al visitarlo, pueden recorrerse las agrestes y amplias playas que lo rodean, rodeados de médanos de considerable altura.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/MEDANOS.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604788497!6m8!1m7!1sCAoSLEFGMVFpcE1sZW91R0dTSko0eW5nVXBQdEthY3gzWVBndnBMaW9nbUJMS1FB!2m2!1d-36.8840373!2d-56.678021!3f59.47!4f8.480000000000004!5f1.5775704524774419"
+},
+{
+    "idFaro": 40,
+    "nombre": "Punta Medanosa",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -48.10228581727612, -65.91636555019552
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Construido en la costa sur de Puerto Deseado, provincia de Santa Cruz. Más precisamente, sobre punta Medanosa, alta, rodeada de islotes peligrosos y cachiyuyos. Sus playas están llenas de restos de naufragios debido a las peligrosas restingas que despide hacia el NE y E, y a los islotes y rocas que se encuentran a unas 3 millas de la costa.",
+   "caracteristicas": "Torre cuadrangular de hormigón armado, con barandilla y plataforma superior que soporta la linterna. Alcance óptico actual es de 10 millas náuticas, provisto de gas acetileno. Desde el año 2000 su alimentación es fotovoltaica. El faro no es habitado. Altura de 12 metros.",
+   "historia": "El 12 de octubre de 1948 se determinó efectuar los primeros estudios de reconocimiento del punto más notable y favorable para la erección de la futura señal en los alrededores de punta Medanosa. Por ello, el 2 de septiembre de 1949, se destacó una comisión de 9 hombres de la dotación del Servicio de Hidrografía Naval, a cargo del Suboficial Torrero José Barrientos, los cuales fueron trasladados a bordo del buque oceanográfico 'Madryn'. Los trabajos se iniciaron el 21 de septiembre de 1948, pero debido a un declive del terreno, se debió variar la posición de los planos originales, construyéndose una plataforma de nivelación. Los trabajos finalizaron en diciembre de 1949 y fue librado al servicio el 6 de diciembre de ese año. Su nombre se debe a la topografía que rodea al faro, y es traducción (aunque no exacta) de la palabra 'Hilly', que figuraba en la cartografía inglesa antigua. Precisamente, tiene médanos que la hacen relativamente alta con respecto al resto de la costa. Los hermanos Nodal, expedicionarios españoles que la avistaron el 8 de enero de 1619, le pusieron el nombre de 'Santa María'.",
+   "ubicacion": "Se encuentra en la llamada punta Medanosa.",
+   "turismo": "Por su proximidad a Puerto Deseado, pueden realizarse paseos y excursiones que vinculan el avistaje del faro con la pesca deportiva.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/MEDANOSA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 41,
+    "nombre": "Punta Mogotes",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.0917238,-57.5474623
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Torre de 35.5 metros con franjas horizontales rojas y blancas, actualmente habitado. ",
+   "caracteristicas": "Tiene un luz blanca que produce un destello cada 19 segundos. La habitación del sereno se encuentra al pie del faro.",
+   "historia": "Se terminó de construir en el año 1891 sobre terrenos pertenecientes a Jacinto Peralta Ramos. En 1934 fue transformado en radiofaro. Su nombre proviene de la restinga de arena que se encuentra sobre el mar y particularmente de las rocas que la forman llamadas mogotes, esta restinga forma parte del sistema Tandilia.",
+   "ubicacion": "Se encuentra sobre una barranca a 8 km sentido sur del cabo Corrientes, en la ciudad de Mar Del Plata.",
+   "turismo": "Dentro del faro, se encuentra una Sala Histórica muy interesante. Fue designado de interés patrimonial en el año 1987. Se accede por medio de una escalera publica de 154 escalones.",
+   "urlImagen": "http://www.hidro.gov.ar/Balizamiento/Faros/FOTOS/MOGOTES.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1665392455411!6m8!1m7!1sCAoSLEFGMVFpcE5WMmMzOGgtbUJLZ0paeEJqTUNidkNVLXRDVm5NT0swdHlKZGFx!2m2!1d-38.0914701!2d-57.54558850000001!3f213.53500254671192!4f14.862797822316594!5f0.7820865974627469"
+    
+},
+{
+    "idFaro": 42,
+    "nombre": "Punta Ninfas",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+           -42.968918424997064, -64.31477616786918
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Fue construido en el extremo Sur de Golfo Nuevo, en la provincia de Chubut. El faro se encuentra deshabitado.",
+   "caracteristicas": "Originariamente, se trataba de una torre de hierro troncopiramidal de 13 metros de altura y con un alcance lumínico nominal de 11 millas. En 1971 fue sustituido por una torre cilíndrica, reforzado con fibra de vidrio y con una plataforma en la parte superior para soporte de la linterna lumínica. Desde su instalación fue alimentado a gas acetileno, pero en 1986 la fuente energética fue reemplazada por paneles solares y baterías fotovoltaicas. Altura de 12 metros.",
+   "historia": "Para su construcción se emplearon siete personas, que recibieron el apoyo logístico del señor Alzúa, de una estancia vecina, quién proporcionó un vagón para el resguardo de los materiales y alimentos.El nombre deriva de la punta homónima de la cual se desconocen los antecedentes. Había sido descubierta el 7 de febrero de 1770 por el piloto español Goycochea, quien la llamó originariamente cabo de San Miguel.",
+   "ubicacion": "El faro Punta Ninfas se encuentra ubicado en el sector sur del acceso al Golfo Nuevo. Se accede a él, por la ruta provincial 5, recorriendo desde Puerto Madryn 50 km en dirección este. ",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/NINFAS.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686604833787!6m8!1m7!1sCAoSLEFGMVFpcE8zME1rNDhqQkI2dmljdTU3WkE3di1xakNZOThMV0tMVG16Y2Ff!2m2!1d-42.9688731!2d-64.3147164!3f280!4f0!5f0.7820865974627469"
+},
+{
+    "idFaro": 43,
+    "nombre": "Punta Norte",
+    "provincia" : "Chubut",
+    "coordenadas": {
+      "coordinates": [
+        -42.0754135, -63.7757046
+      ],
+      "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false	,
+   "descripcion": "Se encuentra sobre la punta homónima, en península Valdés, provincia del Chubut.Torre con escalera interior para acceso al equipo luminoso. En forma experimental, el 20 de noviembre de 1982 se instaló un nuevo sistema eléctrico de baterías alimentadas por energía eólica, que funcionó hasta fines de 1990, luego reemplazado por otro sistema de paneles solares fotovoltaicos. En la actualidad su alcance luminoso es de 14,3 millas náuticas. Sus rasgos se deben a la necesidad de adaptarse a una la rigurosa meteorología de la Patagonia.",
+   "caracteristicas": "Torre cilíndrica de hierro con plataforma superior, barandilla y garita. Casilla de acumuladores al pie concéntrica con la torre. Pintada a franjas horizonotales negras y blancas alternadas siendo negra la superior. Altura de 16,5 metros.",
+   "historia": "El Servicio de Hidrografía Naval, encomendó al Comandante de la 'Corbeta Uruguay', Tte. de Navío Quihillalt, evaluar una posible localización. El informe fue elevado a principios de Noviembre de 1924, los trabajos se iniciaron en Enero de 1925, y el faro fue puesto en servicio en marzo de ese año. ",
+   "ubicacion": "Se accede al faro recorriendo 72 km desde Puerto Pirámide, por la ruta provincial Nº3 , con dirección noreste.",
+   "turismo": "En el lugar existe una reserva faunística provincial, creada el 29 de septiembre de 1967. Es un apostadero de elefantes y lobos marinos de un pelo, y es un sitio donde se suelen observar orcas atacando a los mamíferos marinos. En el apostadero existe una colonia de unos 3000 lobos marinos, que en épocas de reproducción pueden llegar a tener 1350 crías. ",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PNORTE.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686599466892!6m8!1m7!1sCAoSLEFGMVFpcE84d053N3NTSVA3T2ZrMnJtUDFHN0JNSkZMcG15M1VwdWZqNGVn!2m2!1d-42.0754135!2d-63.7735159!3f56.95!4f13.819999999999993!5f0.7820865974627469"
+
+},
+{
+    "idFaro": 44,
+    "nombre": "Punta Piedras",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -35.44686178820635, -57.14370674695254
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra ubicado en el extremo norte de bahía Samborombón, en la provincia de Buenos Aires, muy próximo a la desembocadura del río Salado.",
+   "caracteristicas": "Su aspecto muestra una torre de hierro. Su alcance nominal es de 15,1 millas náuticas. Su fuente de alimentación son paneles solares que cargan baterías fotovoltáicas. La torre cuenta con diez tramos de barandilla y con una plataforma superior que soporta la linterna. El faro no se encuentra habitado. Tormentas severas con fuertes vientos la voltearon en diciembre de 1975 y diversos problemas técnicos incidieron para que recién se la reinstalara en 1983. Altura de 31 metros.",
+   "historia": "Inicialmente se construyó una baliza, pero en noviembre de 1916 finalizan los trabajos de transformación a faro, el cual es puesto en servicio el 21 de marzo de 1917. ",
+   "ubicacion": "Se accede a este faro por la ruta 11, desde la ciudad de Magdalena, pasando por Punta Indio y desde allí se deben recorrer 18 km en dirección SSE. También se puede llegar desde Verónica, tomando el camino hacia la base Aeronaval Punta Indio, y de allí hasta la ruta 11.",
+   "turismo": "El faro se encuentra dentro de la Estancia 'El Faro', la cual se identifica facilmente por la señorial mansión que se divisa desde la ruta. ",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/PPIEDRAS.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 45,
+    "nombre": "Punta Tehuelche",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -42.404873607180264, -64.30290427576554
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra en el golfo San José, península Valdés, Provincia del Chubut, próximo a la Reserva Natural Turística Isla de los Pájaros.",
+   "caracteristicas": "La torre es una estructura de hormigón armado con barandilla y plataforma superior que soporta la garita. El actual alcance óptico es de 10,8 millas. En principio funcionó a gas acetileno, pero el desarrollo posterior de nuevos sistemas de iluminación en el balizamiento, hizo que el 22 de enero de 1985 se instalara un equipo de paneles solares y baterías fotovoltaicas con los que funciona en la actualidad. El faro no se encuentra habitado. Altura de 12 metros",
+   "historia": "Los trabajos de su construcción se iniciaron el 18 de Octubre de 1949. Se finalizaron en Diciembre del mismo año. El faro fue puesto en servicio el día 17 de Diciembre de 1949. El nombre deriva de la punta homónima y recuerda a los aborígenes que vivieron en el lugar.",
+   "ubicacion": "El faro Punta Tehuelche se encuentra en el accidente geográfico homónimo en el sector oriental del istmo Ameghino, el cual une la península de Valdés con el continente. ",
+   "turismo": "El faro se encuentra ubicado en la zona donde los primeros inmigrantes galeses desembarcaran a fines del siglo XIX, y fundaran el Fuerte San José. En la actualidad funciona, en las cercanías, una estación experimental del INTA (Instituto Nacional de Tecnología Agropecuaria). ",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/TEHUELCHE.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 46,
+    "nombre": "Quequén",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.56713950510839, -58.68920214358413
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se levanta sobre un plano situado a 2 pies debajo de las mayores bajamares, al Sur de la Provincia de Buenos Aires, donde originariamente se plantaron 5.000 eucaliptus y 50.000 tamariscos para fijar el terreno.",
+   "caracteristicas": "Posee equipo de emergencia a gas que mantiene su característica luminosa pero disminuye su alcance a 19,4 millas. Altura de 34 metros.",
+   "historia": "Fue construido gracias a un proyecto por la División Hidrografía, Faros Y Balizas, el 18 de setiembre de 1916. Cuatro años después, el 16 de diciembre de 1920, a través de una licitación, la construcción de la torre fue encomendada a la firma Dickerhoff y Widmann. Este nombre indígena provendría de la voz de origen mapuche 'Kem-Kem' o Quequén que significa barranca, Pampas y ranqueles fueron desprendimientos de este antiguo pueblo de la cordillera patagónica. Antiguamente al río lo llamaron Quemquén leuvú, es decir arroyo barrancoso.",
+   "ubicacion": "533 N*234, B7631 Quequén, Provincia de Buenos Aires",
+   "turismo": "Se levanta sobre un plano situado a 2 pies debajo de las mayores bajamares, al sur de la provincia de Buenos Aires, donde originalmente se plantaron 5000 eucaliptos y 50000 tamariscos para fijar el terreno. Quequén es una localidad balnearia sobre la costa atlántica que pertenece al municipio de Necochea. Es muy importante su puerto, centro de embarque de cereales y zona de importante pesca deportiva. Se pueden observar restos de buques que encallaron en la zona. El faro es otra atracción; ubicado sobre una loma cuya altura es de 36 metros y desde cuyo mirador se observa una gran extensión de litoral.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/QUEQUEN.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Faro-neco-quequen.JPG/320px-Faro-neco-quequen.JPG"
+},
+{
+    "idFaro": 47,
+    "nombre": "Querandí",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+           -37.46436420243196,-57.11147958996562
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "El faro de 54 metros de altura se encuentra en una zona medanosa a 30KM de Villa Gessell. Actualmente, habita un sereno.",
+   "caracteristicas": "54 metros de altura, actualmente con franjas negras y blancas",
+   "historia": "El nombre proviene de la punta donde se encuentra, la cual recuerda a los aborígenes del Rio de la Plata.",
+   "turismo": "Se encuentra rodeado de un bosque de coníferas sobre una zona medanosa",
+   "ubicacion": "Se encuentra a 15km del balneario Mar Azul, se puede acceder por la playa. Es parte de la Reserva Natural Faro Querandí",
+   "urlImagen": "http://www.hidro.gov.ar/Balizamiento/Faros/FOTOS/QUERANDI.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1664817074730!6m8!1m7!1sCAoSLEFGMVFpcE4zT1NtWTQtZUhSdFo1OWFrWWpCQ0F1VnZmVU5BdG02ZkVrekxI!2m2!1d-37.4640357!2d-57.1117246!3f140!4f20!5f0.7820865974627469"
+},
+{
+    "idFaro": 48,
+    "nombre": "Recalada A Bahía Blanca",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.99081718013568, -61.2600776290551
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Este es el faro más elevado del litoral marítimo de nuestro país. Se encuentra sobre la costa Sur de la provincia de Buenos Aires, a 7 millas aproximadamente al Oeste de la desembocadura del arroyo Sauce Grande. Por sus características, es de gran utilidad para los navegantes de la zona. Este faro se encuentra habitado.",
+   "caracteristicas": "Torre formada por un cilindro central de hierro de 1,50 metros de diámetro y 8 columnas de hierro fundido. La escalera que posee en su interior es de hierro en caracol con 293 escalones. El 11 de Julio de 1928 se libró al servicio un nuevo aparato luminoso con sistema automático A.G.A. - DALEN en sustitución del anterior sistema que era 'Barbier' a incandescencia por el vapor de petróleo. Altura de 67 metros.",
+   "historia": "Su construcción se decide en el año 1904. Los materiales fueron provistos desde Francia por la misma empresa que se hiciera cargo de la construcción de la torre Eiffel. Su ensamble en locación, fué dirigido por el Ingeniero Luiggi, quién también dirigió la construcción de la base Naval Puerto Belgrano. Fue librado al servicio el 1 de enero de 1906. Al conmemorarse sus cien años, el Correro Argentino lanzó la serie de Estampillas Faros Argentinos III, donde puede observarse al faro Recalada. Se trata de un nombre descriptivo, que auxilia al navegante y lo ayuda a posicionarse.",
+   "ubicacion": "Juan Domingo Perón, B8105 Monte Hermoso, Provincia de Buenos Aires ",
+   "turismo": "Esta ciudad veraniega sobre la costa atlántica fue fundada en 1918. Importantes edificios, residencias y chalets y un activo comercio, atraen año tras año una gran cantidad de turistas amantes de sus amplias playas y cálidas aguas. La distancia a Buenos Aires es de sólo 635 km.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/RECALADA.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Faro_Recalada.jpg/220px-Faro_Recalada.jpg"
+},
+{
+    "idFaro": 49,
+    "nombre": "Río Negro",
+    "provincia": "Río Negro",
+    "coordenadas": {
+        "coordinates": [
+            -41.057805883895064, -62.83910292132719
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Construido en la desembocadura del río Negro, junto al balneario El Cóndor, en la Provincia de Río Negro. Es el más antiguo de los faros en servicio. Este faro se encuentra habitado.",
+   "caracteristicas": "La torre está construída en mampostería de ladrillo. Se accede a la garita de iluminación por medio de una escalera de 64 escalones. Elevación sobre el nivel del mar: 43,5 metros y altura de 16,5 metros.",
+   "historia": "El motivo de la construcción de este faro fue el de brindar a las embarcaciones un punto geográfico de referencia para la aproximación del río y posterior arribo al puerto de Carmen de Patagones. El río fue descubierto en enero de 1779 por el piloto Manuel Bruñuel y el Teniente de Infantería Pedro García, viaje realizado durante la administración del Virrey Vértiz, con la sumaca 'San Antonio la Oliveyra'. ",
+   "ubicacion": "",
+   "turismo": "Junto al faro Río Negro se encuentra en balneario El Cóndor, una confortable villa turística de chelés y cabañas, con servicios de restaurantes y confiterías. Playas de gran amplitud, suave declive y arenas finas, invitan a la pesca deportiva. A tan sólo 2 km se encuentra el faro, que ofrece al turista una fantástica vista panorámica del Atlántico y de la desembocadura del río Negro.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/RIONEGRO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Faroargentinobalnearioelcondor.JPG/320px-Faroargentinobalnearioelcondor.JPG"
+},
+{
+    "idFaro": 50,
+    "nombre": "San Antonio",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -36.3064904, -56.7747906
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": true,
+   "descripcion": "Se encuentra en el partido de General Lavalle, provincia de Buenos Aires. El cabo San Antonio, de quien recibe el nombre y sobre el cual se erige, es una prominencia de tierra que termina casi en ángulo recto, en un sector llamado 'Frontón del cabo San Antonio'. Este faro se encuentra habitado.",
+   "caracteristicas": "Se trata de una torre metálica tipo trípode o tronco piramidal. Si bien es eléctrico, en el balcón ha sido colocada una linterna a gas, para uso de emergencia, de una potencia de 900 candelas con alcance luminoso de 9 millas. Su elevación sobre el nivel del mar es de 63 metros y su alcance nominal de 28 millas náuticas.",
+   "historia": "Los trabajos para su construcción se iniciaron en 1891. Finalizaron al año siguiente y el 1 de enero de 1892 fue librado al servicio.",
+   "ubicacion": "Se encuentra dentro del parque tematico 'Termas Marinas Park'",
+   "turismo": "El predio del faro está rodeado por dos centros turísticos de la costa: las Termas Marinas y Mundo Marino. Las Termas se encuentran dentro de Bahía Aventura, un parque temático de esparcimiento, que pone al turista en contacto con la naturaleza. Aquí, desde el faro, se puede ascender hasta su equipo de iluminación por un ascensor panorámico que permite admirar el maravilloso paisaje de la zona, tal como punta Rasa, donde se da el curioso fenómeno de la salida del sol sobre el mar y su puesta sobre el río. Sucede sobre la gran lengua de arena que se ienterna en el agua para convertirse en el extremo sur de bahía Samborombón, donde se confunden el río con el mar. Aquí se encuentra la Estación Biológica 'Punta Rasa' que alverga millares de aves migratorias que llegan desde América del Norte y la Patagonia. A su vez, Mundo Marino abarca 17 ha y es el oceanario más grande de América del Sur. Según algunos lugareños, por el momento el ascensor interno se encuentra fuera de servicio.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/ANTONIO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Faro_San_Antonio.jpg/320px-Faro_San_Antonio.jpg"
+},
+{
+    "idFaro": 51,
+    "nombre": "San Diego",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.657838863084656, -65.11884997394591
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro Cabo San Diego se encuentra ubicado en el extremo oriental de la Isla Grande de Tierra del Fuego, sobre el cabo homónimo. Este accidente geográfico marca, a su vez, el límite occidental del Estrecho de Le Maire. El cabo es bajo, de perfiles suaves, que culminan en un promontorio arenoso de 134 metros de elevación. El faro no es habitado",
+   "caracteristicas": "Originariamente, funcionó con equipo de gas acetileno y una lente de 1.000 milímetros que le proveía de un alcance de 21,9 millas. Posteriormente, en el mes de abril de 1985 se reemplazó la fuente original por energía fotovoltaica, proporcionada por paneles solares y baterías. El alcance óptico actual es de 13,2 millas. Altura de 13 metros.",
+   "historia": "Debido a las dificultades observadas para recalar en la zona del cabo San Diego , en 1931 por el comandante del Transporte A.R.A. 'CHACO', se produjo un informe solicitando al Servicio de Hidrografía Naval la instalación de un faro que permitiera una mejor visibilidad rumbo a la isla de los Estados. Luego de realizados los informes técnicos y del análisis del terreno, en agosto de 1933 se solicitó al Ministerio de Marina autorización para intervenir una suma de dinero destinada a la compra de materiales para la construcción de un faro, iniciándose los trabajos el 3 de noviembre de 1934. Una vez finalizados los mismos, se libró al servicio el 26 de diciembre de 1934.El faro toma el nombre del cabo homónimo. Bautizado por la expedición de los hermanos Batolomé y Gonzalo Nodal en 1619, en homenaje al Cosmógrafo y Piloto Mayor de la expedición, Diego Ramírez de Arellano, exactamente el 22 de enero de 1619.",
+   "ubicacion": "El faro Cabo San Diego se encuentra ubicado en el extremo oriental de la Isla Grande de Tierra del Fuego, sobre el cabo homónimo. ",
+   "turismo": "El acceso al faro se realiza únicamente por mar, siendo muy arriesgado su desembarco cuando existe oleaje. El terreno de acceso al faro es muy escarpado, tornando más difícil su accesibilidad como también la provisión de materiales. Últimamente, se ha verificado la existencia de un terreno apto para el aterrizaje y despegue de helicópteros.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SANDIEGO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 52,
+    "nombre": "San Francisco de Paula",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -49.73961140718064, -67.72215236550612
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Fue construido entre los puertos de Santa Cruz y San Julián, 70 Km al sur de este último, en la provincia de Santa Cruz. El faro no es habitado.",
+   "caracteristicas": "La torre está construida en hierro. Su fuente de alimentación actual es un equipo fotovoltaico de paneles solares y baterías, que le permiten un alcance luminoso de 13,7 millas náuticas. Altura de 8,5 metros.",
+   "historia": "El personal afectado para su construcción y el material fueron transportados por el buque balizador ARA 'ALFEREZ MACKINLAY', que zarpó del puerto de Buenos Aires el 26 de enero de 1917 y arribó a San Julián el 5 de febrero del mismo año. Los trabajos se iniciaron el 13 de marzo de 1917 y fue librado al servicio el 15 de abril del mismo año. El nombre de la señal proviene del cabo homónimo, bautizado en recuerdo del bergantín 'San Francisco de Paula', buque que realizara dos viajes a la Patagonia en 1768, al mando del Teniente de Fragata Manuel Pando. El nombre geográfico del cabo aparece por primera vez, según el historiador marítimo Ratto, en una carta de 1769.",
+   "ubicacion": "Se encuentra entre puerto San Julián al N y puerto Santa Cruz al S. En la Reserva Provincial Provincia de San Julián.",
+   "turismo": "En la Reserva Provincial de San Julián puede realizarse una excursión náutica visitando la isla de los Pingüinos, de variada avifauna, y el banco Justicia donde anidan gran cantidad de cormoranes. Por su parte, el puerto Santa Cruz tiene una rica trayectoria histórica. Fundado en 1878 en el cañadón Misioneros, fue la capital del Territorio de Santa Cruz hasta 1904.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/FPAULA.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 53,
+    "nombre": "San Gonzalo",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.964211971607305, -65.96840265742384
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Esta señal luminosa se encuentra ubicada en bahía Aguirre, provincia de Tierra del Fuego. Debido a las dificultades topográficas el faro no pudo erigirse en el lugar proyectado, haciéndolo finalmente sobre punta Kinnaird. El faro no es habitado.",
+   "caracteristicas": "El faro es una torre con un alcance óptico de 7,2 millas náuticas. Desde el 10 de abril de 1985, su luz fue alimentada por energía fotovoltaica, por medio de paneles solares y baterías. Debido al grave deterioro estructural esta torre fue reemplazada en el año 2003 por una estructura cilíndrica construida en plástico reforzado con fibra de vidrio. Altura de 4,5 metros.",
+   "historia": "Los trabajos para su construcción comenzaron en 1928 y fue librado al servicio el 20 de diciembre del mismo año. En 1970 se decidió su reemplazo porque la estructura se encontraba muy deteriorada. El traslado hasta Ushuaia lo realizó el transporte ARA 'BAHÍA AGUIRRE' y de allí el Aviso ARA 'GOYENO' los llevó hasta el lugar del emplazamiento, siendo la nueva inauguración el 4 de mayo de 1970. Su nombre proviene del cabo San Gonzalo, impuesto por la expedición de los hermanos Nodal, durante la expedición que realizaran a Tierra del Fuego en 1619, en recuerdo del capitán Gonzalo Nodal que comandaba una de las carabelas.",
+   "ubicacion": "En las cercanias de la bahía Aguirre.",
+   "turismo": "Se encuentra construido sobre pequeños mogotes. Puede ser utilizado para avistaje de avifauna nativa.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/GONZALO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 54,
+    "nombre": "San Gregorio",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -45.02473617070361, -65.62923012103892
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Este faro se encuentra instalado a unas noventa millas al Noroeste de la ciudad de Comodoro Rivadavia y en la bahía del mismo nombre. El faro no es habitado.",
+   "caracteristicas": "La torre del faro, es una estructura cuadrangular de hormigón, con barandilla y plataforma superior donde se encuentra la garita con el equipo óptico giratorio. Su alcance nominal es de 13,5 millas náuticas. Altura de 9 metros.",
+   "historia": "Su construcción fue pensada entre los años 1965 y 1967, cuando el Servicio de Hidrografía Naval realizó los estudios para trasladar hacia el continente el faro Isla Leones, que se encontraba en las islas del mismo nombre, debido al difícil acceso de personal y aprovisionamiento. El lugar elegido para la nueva señal, que reemplazaría al de Leones, fue un morro de más de 160 metros de altura, en la bahía de San Gregorio. El nombre deriva de la bahía San Gregorio, llamada así por la expedición española de Olivares, quien penetró en ella el 11 de marzo de 1746 y la recorrió hasta el día siguiente, el 12 de marzo, día de San Gregorio Magno. ",
+   "ubicacion": "Este faro se encuentra instalado a unas noventa millas al Noroeste de la ciudad de Comodoro Rivadavia.",
+   "turismo": "Se encuentra sobre una meseta árida, próximo a un acantilado. Puede servir para avistar avifauna local.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/GREGORIO.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 55,
+    "nombre": "San Jorge",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -45.7788876, -67.379708
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Torre prismática de hormigón con garita negra instalado en las proximidades del cabo San Jorge, en la ciudad de Comodoro Rivadavia, Provincia del Chubut.",
+   "caracteristicas": "El faro no es habitado. Su altura respecto al nivel del mar es de 80 metros. Originariamente su destellador fue alimentado por tubos de gas acetileno que le otorgaron un alcance de 21 millas, pero años después, precisamente el 2 de marzo de 1988, su antigua alimentación fue reemplazada a través de una conexión a la red urbana de la zona, con lo cual su alcance quedó reducido a 13,7 millas. Altura de 27 metros.",
+   "historia": "Los antecedentes de su construcción se remontan al año 1923, cuando se estimó necesario el reemplazo del faro Comodoro Rivadavia, en peligro debido a los constantes desmoronamientos del Cerro Chenque, en esa incipiente localidad. Una vez establecida la nueva ubicación, las tareas de construcción del nuevo faro se sucedieron de inmediato bajo las órdenes del Ingeniero Jorge Rojo. El Presidente Alvear promulgó en Enero de 1924 el decreto estableciendo una reserva de 24 hectáreas de terreno. La empresa YPF se sumó al proyecto mediante la donación en efectivo del tercio del costo total de la obra. La empresa petrolera Astra aportó 160.000 ladrillos y la cal necesaria para la obra. La compañía Ferrocarrilera del Petróleo efectuó sin cargo el transporte de todo el material desde el muelle de Caleta Córdova hasta el lugar de la construcción. El equipo luminoso fué adquirido a la empresa sueca AGA, así como la garita, construída en hierro fundido con techo de cobre. La construcción finalizó el 6 de marzo de 1925, y el faro fué librado al servicio tres días más tarde.",
+   "ubicacion": "Geográficamente, este faro se encuentra instalado en las proximidades del cabo San Jorge, en la ciudad de Comodoro Rivadavia, Provincia del Chubut.",
+   "turismo": "El faro San Jorge puede ser considerado un faro moderno, con una garita importante. En la actualidad esta a cargo de la Municipalidad local (Comodoro Rivadavia) quien realizó un convenio con la Armada Argentina para que los turistas no lo depredaran. Antes estaba en la falda del Cerro Chenque pero se lo debió trasladar, por que el cementerio ubicado allí producía desmoronamientos y su luz se confundía con las de las torres de petróleo. El Radio Club Comodoro Rivadavia (LU2WA) suele activar este faro para el Fin de Semana Internacional de los Faros (ILLW) el tercer fin de semana de Agosto de cada año.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SJORGE.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1686599290243!6m8!1m7!1sCAoSLEFGMVFpcE9fcElMNXNkYS1ya1U4ZDRfelNtXzJMMGxaYzUtN1FXY184NHlu!2m2!1d-45.77888762310425!2d-67.37970795482397!3f349.51!4f1.7099999999999937!5f0.7820865974627469"
+
+},
+{
+    "idFaro": 56,
+    "nombre": "San José",
+    "provincia": "Chubut",
+    "coordenadas": {
+        "coordinates": [
+            -44.513229318279265, -65.28639005921406
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " El faro se encuentra ubicado sobre el monte del mismo nombre, en la península Betbeder, en la provincia del Chubut",
+   "caracteristicas": "El faro es una torre de hierro. En principio funcionó con un equipo luminoso alimentado por acumuladores de gas acetileno, que le proporcionaba un alcance de 20 millas. En 1986 se reemplazó el viejo sistema a gas por el fotovoltaico, con paneles solares que le proporcionaban un alcance de 13,1 millas náuticas. El faro no es habitado. Altura de 16,5 metros.",
+   "historia": "En septiembre de 1915, se solicitó al Ministerio de Marina la instalación de un faro automático que sirviera para señalar el arrecife Salaverría que se extiende unas 10 a 12 millas del cabo San José. El proyecto fue aprobado por el Ministro de Marina, Vicealmirante Juan Pablo Sáenz Valiente. Los trabajos se iniciaron el 1 de junio de 1917 y fue librado al servicio el 25 de julio del mismo año. ",
+   "ubicacion": "Poca información, ¡realizá tu aporte!",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SJOSE.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 57,
+    "nombre": "San Juan del Salvamento",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -54.73235156758926, -63.856944604898246
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Este faro se construyó debido a la necesidad de crear un medio de apoyo náutico para los buques que operaban en la zona. Fue habilitado el 25 de mayo de 1884 y construido en cumplimiento de la ley 1390, promulgada en octubre de 1883. La ley ordenaba habilitar en el más breve plazo la posible entrada al Río de la Plata, al puerto de Bahía Blanca y la 'aproximación a la isla de los Estados'. ",
+   "caracteristicas": "Su estructura es una caseta octogonal de cedro canadiense natural con techo y globo superior color plomo. La garita se encuentra dentro de la gaceta en ventana dirigida al NE, en el faro su alimentación es eléctrica fotovoltaica. La luz estaba proporcionada por 8 lámparas de petróleo. En la actualidad se encuentra funcionando con paneles solares. Altura de 6,5 metros",
+   "historia": "En 1884, bajo la presidencia del Doctor Julio A. Roca, la División Expedicionaria del Atlántico Sur al mando del Coronel de Marina Augusto Lasserre relevó la costa norte de la isla. Como consecuencia de sus trabajos se instaló un faro en la actual punta Lasserre, extremo W del puerto San Juan del Salvamento El 25 de mayo de 1884 fué puesto en servicio, manteniendo su actividad junto al presidio de la isla por un periodo de 18 años. Tiempo después se entendió que la ubicación del faro no era óptima (presencia de islas cercanas que obstruían su visión) y se lo puso fuera de servicio, para ser relevado por el Faro Año Nuevo, en la isla Observatorio, unos kilómetros hacia el norte. Fué declarado Monumento histórico por decreto 1388/76. El nombre se debe a que este faro poseía además una casilla que debía servir de estación de 'salvamento' para auxiliar a los numerosos naufragios de entonces. Librado al Servicio en 1884, se suma a loa faros centenarios del mar Argentino, cumpliendo con la eterna misión de proteger al hombre de mar.",
+   "ubicacion": "Se encuentra en la isla de los Estados.",
+   "turismo": "En el extremo sur de nuestro país, y como un extensión de la isla Grande de la Tierra del Fuego, se encuentra la isla de los Estados, separada de aquella por el estrecho de Le Meire, de 16 millas de ancho entre punta Cuchillo y Morro Norte de bahía Buen Suceso. La isla es montañosa, con alturas de más de 800 metros, que culminan en los montes Bove de 825. En su interior alberga lagos y lagunas de difícil acceso. Sus costas ofrecen gran cantidad de bahías y caletas que forman buenos puertos naturales y acantilados que oscilan entre 60 y 150 m de altura. La región occidental es la de menor elevación. Estos acantilados y restingas rocosas aparecían ante los ojos de los navegantes antiguos con un aspecto tenebroso. ",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SJSALVAMENTO.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Farodelfindelmundo-2022-lethalcrysis.jpg/320px-Farodelfindelmundo-2022-lethalcrysis.jpg"
+},
+{
+    "idFaro": 58,
+    "nombre": "San Matias",
+    "provincia": "Río Negro",
+    "coordenadas": {
+        "coordinates": [
+            -40.8223322, -64.7196427
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " En la provincia de Río Negro y en el golfo San Matías, se encuentra este faro, que fuera instalado en reemplazo del antiguo faro Villarino a fines de setiembre de 1924. El faro no es habitado.",
+   "caracteristicas": "Su estructura es una torre de hierro, inicialmente alimentada con gas acetileno y con un alcance de 17,5 millas náuticas. En enero de 1983 fue electrificado con paneles solares que modificaron su alcance óptico a 12 millas.",
+   "historia": "Este faro fue instalado en reemplazo del antiguo faro Villarino a fines de setiembre de 1924. Próximo a la ciudad de San Antonio Oeste, fundada a mediados de 1905, es un punto de convergencia de líneas de transporte que surcan los caminos australes del pais. Se destaca como centro de pesca marítima comercial.",
+   "ubicacion": "se encuentra en la costa norte del golfo San Matías, en la zona denominada Saco Viejo en la punta de San Antonio Este",
+   "turismo": "Próximo al faro se encuentra el balneario Las Grutas, localidad que posee una hermosa y muy concurrida playa con suave declive y arenas finas.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SMATIAS.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Faro_San_Matias_%28Argentina%29.JPG/320px-Faro_San_Matias_%28Argentina%29.JPG"
+},
+{
+    "idFaro": 59,
+    "nombre": "San Sebastian",
+    "provincia": "Tierra del Fuego",
+    "coordenadas": {
+        "coordinates": [
+            -53.324600168675936, -68.15835065178976
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra en el extremo sur de bahía San Sebastián, en la provincia de Tierra del Fuego. Esta bahía, que se forma entre punta de Arenas y cabo San Sebastián, tiene unas 13,5 millas de saco y una boca de 10 millas. El faro no es habitado.",
+   "caracteristicas": "El faro San Sebastián tiene un alcance luminoso de 13,6 millas náuticas. Actualmente su energía es fotovoltaica. Altura de 11 metros.",
+   "historia": "Dada las características de la bahía y con el fin de ampliar el balizamiento marítimo, el 31 de enero de 1949, comenzó la construcción de la señal. Los trabajos estuvieron dirigidos por el Suboficial Mayor Torrero Nicolás Caraus y fue librado al servicio el 18 de abril de 1949. Hasta el presente, la totalidad de los expertos en toponimia dan por sentado que los hermanos Bartolomé y Gonzalo Nodal impusieron el nombre de San Sebastián al cabo que avistaron el 20 de enero de 1620, día del santo en las efemérides católicas. El nombre derivó luego a la bahía y por último al faro. El cabo era llamado por los indígenas 'Kolenken' o gaviota grande y también 'Jarror' o punta de roca.",
+   "ubicacion": "Se encuentra en el extremo sur de bahía San Sebastián.",
+   "turismo": "Las playas de la bahía fueron muy frecuentadas por los choncoiucas, porque contenían arcilla blanca, emplasto de color guerrero, codiciado por los onas. Por eso también se llamaba 'Atlasamka' o pintura blanca.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SEBASTIAN.jpg",
+   "urlVista": "https://www.google.com/maps/place/Faro+San+Sebasti%C3%A1n/@-53.3245176,-68.1583197,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN6ete3OWLy8dmRBZsAl6v2YJmW7DnnpQxrnzgI!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN6ete3OWLy8dmRBZsAl6v2YJmW7DnnpQxrnzgI%3Dw203-h440-k-no!7i1860!8i4032!4m7!3m6!1s0xbdb4c8d8539b75b5:0xbe684e8a147c18c1!8m2!3d-53.3245176!4d-68.1583197!10e5!16s%2Fg%2F1xy31qq8!5m1!1e4?entry=ttu#"
+},
+{
+    "idFaro": 60,
+    "nombre": "Santa Cruz",
+    "provincia": "Santa Cruz",
+    "coordenadas": {
+        "coordinates": [
+            -50.15393116826968, -68.36137133086376
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": "Se encuentra a unos 20 km al sur del puerto de Santa Cruz, sobre una elevación de aproximadamente 150 metros y próximo al monte Entrada, en la provincia de Santa Cruz. El faro no es habitado.",
+   "caracteristicas": "Incialmente este faro estuvo alimentado por tubos de acetileno que le proveían un alcance de 12,9 millas. En la actualidad, la alimentación se produce a través de energía fotovoltaica. Altura de 12 metros.",
+   "historia": "En agosto de 1922 se proyectó construir un faro en la costa del puerto de Santa Cruz. Para la tarea se operó con el acorazado Balizador A.R.A. 'ALMIRANTE BROWN' y el 25 de diciembre de 1922 en transporte 'RIO NEGRO' desembarcó al personal en Punta Quilla para su construcción. El faro lleva el nombre del río homónimo, visitado por el pilota Juan Serrano, de la expedición de Magallanes, el 3 de mayo de 1520, día de la Santa Cruz.",
+   "ubicacion": "Se encuentra a unos 20 Km al sur del puerto de Santa Cruz, sobre una elevación de aproximadamente 150 metros y próximo al monte Entrada. Fue construido en plena meseta patagónica, debiendo soportar las inclemencias meteorológicas de esas solitarias geografías.",
+   "turismo": "Poca información, ¡realizá tu aporte!",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SCRUZ.jpg",
+   "urlVista": "/contribute"
+},
+{
+    "idFaro": 61,
+    "nombre": "Segunda Barranca",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -40.73418955795128, -62.28007671825344
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": false,
+   "descripcion": " Se encuentra en la zona comprendida entre Segunda Barranca y Punta Rasa, al Sur de la Provincia de Buenos Aires. El faro se encuentra habitado. ",
+   "caracteristicas": "Originariamente, era una luz blanca con un aparato 'Barbier' de 3er orden. La torre consta de un tubo central y sus patas de menor diámetro, dispuestas en forma exagonal, con garita en la parte superior. Posee equipo de emergencia a gas, que al utilizarlo mantiene su característica luminosa, pero reduce su alcance.",
+   "historia": "En el año 1911, la Dirección de Hidrografía, Faros y Balizas sostuvo la necesidad de construir un faro en el sector comprendido entre Segunda Barranca y punta Rasa. En 1912, los designados jefes de la Sección Faros, Alferez de Fragata Pedro Sánchez Granel y el Ingeniero Maquinista de 1era. (RE) César Caccia, recorrieron aquel tramo de costa y eligieran el lugar más apto para levantar un faro fijo. Después de una minuciosa inspección de la zona, ambos aconsejaron que el faro fuera levantado en las inmediaciones del accidente costero conocido con el nombre de Segunda Barranca. Los trabajos se iniciaron en febrero de 1912, bajo la dirección del Ing. Caccia. En 1914, dos años después, los trabajos finalizaron exitosamente, procediéndose a su encendido el 10 de junio de ese mismo año. La señal recibió el nombre del accidente geográfico donde se encuentra y que fuera impuesto por el piloto español de la Peña en 1795, para diferenciarla de otro accidente más antiguo, llamada Primera Barranca.",
+   "ubicacion": "Se puede llegar por la costa desde Bahía San Blas, 40km aproximadamente o por el balneario 7 de Marzo.",
+   "turismo": "Se encuentra en una zona de dificil acceso para el turista.",
+   "urlImagen": "http://www.hidro.gob.ar/Balizamiento/Faros/FOTOS/SBARRANCA.jpg",
+   "urlVista": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Segunda_Barranca.jpg/320px-Segunda_Barranca.jpg"
+}
+]
+

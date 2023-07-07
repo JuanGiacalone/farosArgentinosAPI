@@ -1,0 +1,31 @@
+{
+    "idFaro": 99,
+    "nombre": "testComm",
+    "coordenadas": {
+      "coordinates": [
+        52,
+        52
+      ],
+      "type": "Point"
+    },
+    "comentarios": [ {
+        "fecha": "12/9/2022",
+        "nombre": "JpPablo",
+        "email": "a@a.com",
+        "cuerpo": "akslkja;ls;jkldjaksdlkajsjdalkxaklsjdlakjsdlaksmxalksjdalskdjalskdmmxlkmasksajjdsadsajsajsljdsljasjsakjsksadsajkdsajkkjdsalkjdsakjdsakjdsjaksjdk1!!!!kal;skdlka;sl"
+    },
+    {
+       "fecha": "12/9/2022",
+        "nombre": "JpPablo2",
+        "email": "a@a.com",
+        "cuerpo": "akslkja;ls;jkldjaksdlk"
+    },
+    {
+       "fecha": "12/9/2022",
+        "nombre": "JpPablo3",
+        "email": "a@a.com",
+        "cuerpo": "akslkja;ls;jkldjaksdlk"
+    }
+      
+    ]
+  } 

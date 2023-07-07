@@ -1,0 +1,20 @@
+{
+    "idFaro": 99,
+    "nombre": "Punta Mogotes",
+    "provincia": "Buenos Aires",
+    "coordenadas": {
+        "coordinates": [
+            -38.0917238,-57.5474623
+        ],
+        "type": "Point"
+    },
+   "accesible": true,
+   "accesoPago": true,
+   "descripcion": " Torre de 35.5 metros con franjas horizontales rojas y blancas, actualmente habitado. ",
+   "caracteristicas": "Tiene un luz blanca que produce un destello cada 19 segundos. La habitación del sereno se encuentra al pie del faro.",
+   "historia": "Se terminó de construir en el año 1891 sobre terrenos pertenecientes a Jacinto Peralta Ramos. En 1934 fue transformado en radiofaro. Su nombre proviene de la restinga de arena que se encuentra sobre el mar y particularmente de las rocas que la forman llamadas mogotes, esta restinga forma parte del sistema Tandilia.",
+   "ubicacion": "Se encuentra sobre una barranca a 8 km sentido sur del cabo Corrientes, en la ciudad de Mar Del Plata.",
+   "turismo": "Dentro del faro, se encuentra una Sala Histórica muy interesante. Fue designado de interés patrimonial en el año 1987. Se accede por medio de una escalera publica de 154 escalones.",
+   "urlImagen": "http://www.hidro.gov.ar/Balizamiento/Faros/FOTOS/MOGOTES.jpg",
+   "urlVista": "https://www.google.com/maps/embed?pb=!4v1665392455411!6m8!1m7!1sCAoSLEFGMVFpcE5WMmMzOGgtbUJLZ0paeEJqTUNidkNVLXRDVm5NT0swdHlKZGFx!2m2!1d-38.0914701!2d-57.54558850000001!3f213.53500254671192!4f14.862797822316594!5f0.7820865974627469"
+}
