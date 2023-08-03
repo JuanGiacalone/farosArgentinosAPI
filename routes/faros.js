@@ -138,11 +138,17 @@ farosRouter.put('/modificar', async (req,res) => {
             if(!faroExiste) {
                 res.json({message: 'No existe faro con idFaro: '+ (req.body.idFaro)})
             } else {
-
-                // Se insertan las entries en un arreglo
                 let arr = Object.entries(req.body)
+                // Se insertan las entries en un arreglo
+                // Se verifica que el idFaro se encuentre en el indice 0, si se encuentra en el 1 se invierte el arreglo para que
+                // la asignacion que le sigue sea exitosa
+                if ( Object.keys(req.body).indexOf('idFaro') >= 0 ) {
+                  arr.reverse()
+                }    
+                
                 // Se guarda la key que se encuentra en el subarreglo 1, posicion 0
                 let key = arr[1][0]
+
                 // Se guarda el valor que se encuentra en la posicion 1 del subarreglo
                 let value = arr[1][1]
 
@@ -156,7 +162,8 @@ farosRouter.put('/modificar', async (req,res) => {
                 // Chequea si el campo que se quiere modificar existe, segun la respuesta de la bd
                 // si no existe en la respuesta, no existe el campo
                 // Entonces si existe, respondo existosamente.
-                if ( modificaCampo [ key ]) {
+                  console.log(Object.keys(modificaCampo['_doc']));
+                if (Object.keys(modificaCampo['_doc']).indexOf(key) > 0) {
                     res.json({message:'Se modifico el campo: ' + key + ' del faro con idFaro: ' + req.body.idFaro,
                         result: modificaCampo })
                 } else {
