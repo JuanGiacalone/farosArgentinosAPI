@@ -1,5 +1,5 @@
 {
-  "name": "nodejsexpressmongodbtest",
+  "name": "FarosArgentinosAPI",
   "version": "1.0.0",
   "description": "Creating a backend for a tourism app",
   "main": "index.js",

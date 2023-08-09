@@ -211,7 +211,7 @@ farosRouter.put( "/:idFaro", async (req,res) => {
 farosRouter.get("/top", async (req,res) => {
   try {
     // Con impresiones -1 ordeno de mayor a menor segun sus impresiones, limit hace traer maximo 5 resultados y select -> selecciono los campo q me interesan.
-    const top = await faroModel.find().sort({impresiones: -1}).limit(5).select('idFaro impresiones nombre').exec();
+    const top = await faroModel.find().sort({impresiones: -1}).limit(5).exec();
     
     if (!top.length)
     res.json({ message:'No hay faros cargados.'})
