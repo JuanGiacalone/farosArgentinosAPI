@@ -142,7 +142,8 @@ farosRouter.put('/modificar', async (req,res) => {
                 // Se insertan las entries en un arreglo
                 // Se verifica que el idFaro se encuentre en el indice 0, si se encuentra en el 1 se invierte el arreglo para que
                 // la asignacion que le sigue sea exitosa
-                if ( Object.keys(req.body).indexOf('idFaro') >= 0 ) {
+                
+                if ( Object.keys(req.body).indexOf('idFaro') > 0 ) {
                   arr.reverse()
                 }    
                 
@@ -151,7 +152,7 @@ farosRouter.put('/modificar', async (req,res) => {
 
                 // Se guarda el valor que se encuentra en la posicion 1 del subarreglo
                 let value = arr[1][1]
-
+                
                 // Se realiza la modificacion usando $set key : value
                 const modificaCampo = await faroModel.findOneAndUpdate(
                         {idFaro: req.body.idFaro},
@@ -162,7 +163,7 @@ farosRouter.put('/modificar', async (req,res) => {
                 // Chequea si el campo que se quiere modificar existe, segun la respuesta de la bd
                 // si no existe en la respuesta, no existe el campo
                 // Entonces si existe, respondo existosamente.
-                  console.log(Object.keys(modificaCampo['_doc']));
+                
                 if (Object.keys(modificaCampo['_doc']).indexOf(key) > 0) {
                     res.json({message:'Se modifico el campo: ' + key + ' del faro con idFaro: ' + req.body.idFaro,
                         result: modificaCampo })
