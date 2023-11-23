@@ -43,7 +43,7 @@ app.use('/publicidades', publicidadesRouter)
 
 
 // Conexion a BD
-
+mongoose.set('strictQuery', true)
 mongoose.connect(
     process.env.DB_CONNECTION,
     {
