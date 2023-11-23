@@ -1,6 +1,6 @@
 {
   "name": "FarosArgentinosAPI",
-  "version": "1.1.0dockerImage",
+  "version": "1.2",
   "description": "Creating a backend for a tourism app",
   "main": "index.js",
   "type": "module",
