@@ -1,12 +1,13 @@
 {
-  "name": "nodejsexpressmongodbtest",
-  "version": "1.0.0",
+  "name": "FarosArgentinosAPI",
+  "version": "1.2",
   "description": "Creating a backend for a tourism app",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "prod": "node --no-warnings app.js"
   },
   "repository": {
     "type": "git",

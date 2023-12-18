@@ -38,3 +38,11 @@ API Rest con MongoDB - Mongoose y Express / Backend para sitio web turistico de 
 1. Usar los .js de la carpeta axios_requests, ademas se encuentran los formato de cuerpo en formato JSON para realizar las peticiones
 2. Correrlos con node NombreArchivo.js o utilizando postman
 3. Modificar parametros de entrada segun necesidad, ingresar datos de autenticacion en caso que se haya activado.
+
+### Construye la imagen para docker!
+
+```sh
+docker build -t faros-argentinos-api:VERSION-X -f ./Dockerfile .
+
+```
+

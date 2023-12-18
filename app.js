@@ -6,7 +6,7 @@ import dotenv from 'dotenv/config'
 import cors from 'cors';
 
 // Seteo de puertos y base a utilizar
-const PORT = process.env.APP_PORT || 3000;
+const PORT = process.env.APP_PORT;
 const DB =  process.env.DB_NAME || 'farosArg_01'
 
 // Instancia de la App
@@ -43,7 +43,7 @@ app.use('/publicidades', publicidadesRouter)
 
 
 // Conexion a BD
-
+mongoose.set('strictQuery', true)
 mongoose.connect(
     process.env.DB_CONNECTION,
     {
